@@ -1,0 +1,81 @@
+[2022-04-22 02:10:19] - @felix:matrix.osolomko.com: Привет. Скинь пжста последнее что протестить нужно, я про бота (Original)
+	Hello. Throw off the last thing you need to test, I'm talking about bot (Translated)
+
+[2022-04-22 04:21:55] - @stealer:matrix.osolomko.com: 2t.7z (Original)
+	2T.7Z (Translated)
+
+[2022-04-22 04:22:01] - @stealer:matrix.osolomko.com: привет (Original)
+	Hey (Translated)
+
+[2022-04-22 16:45:18] - @stealer:matrix.osolomko.com: @stealer:matrix.osolomko.com is requesting to verify your key, but your client does not support in-chat key verification.  You will need to use legacy key verification to verify keys. (Original)
+	@stealer: Matrix.osolomko.com Is Requesting to verify your key, but your client soups not-chart key verification. You Will Need To Use Legacy Key Verification to Verify Keys. (Translated)
+
+[2022-04-22 16:47:36] - @stealer:matrix.osolomko.com: @stealer:matrix.osolomko.com is requesting to verify your key, but your client does not support in-chat key verification.  You will need to use legacy key verification to verify keys. (Original)
+	@stealer: Matrix.osolomko.com Is Requesting to verify your key, but your client soups not-chart key verification. You Will Need To Use Legacy Key Verification to Verify Keys. (Translated)
+
+[2022-04-22 16:49:58] - @stealer:matrix.osolomko.com: @stealer:matrix.osolomko.com is requesting to verify your key, but your client does not support in-chat key verification.  You will need to use legacy key verification to verify keys. (Original)
+	@stealer: Matrix.osolomko.com Is Requesting to verify your key, but your client soups not-chart key verification. You Will Need To Use Legacy Key Verification to Verify Keys. (Translated)
+
+[2022-04-23 01:34:19] - @felix:matrix.osolomko.com: бро, не было на месте (Original)
+	Bro, was not in place (Translated)
+
+[2022-04-23 01:34:22] - @felix:matrix.osolomko.com: сегодня сделаю тесты (Original)
+	I'll make tests today (Translated)
+
+[2022-04-23 01:39:32] - @stealer:matrix.osolomko.com: ок (Original)
+	OK (Translated)
+
+[2022-04-23 01:41:36] - @felix:matrix.osolomko.com: такс, а что мне тестить?  (Original)
+	Dachshund, what should I test? (Translated)
+
+[2022-04-23 01:41:42] - @felix:matrix.osolomko.com: самого бота я еще с вин32 тестил (Original)
+	I still tested the bot with wines32 (Translated)
+
+[2022-04-23 01:41:52] - @stealer:matrix.osolomko.com: а норм (Original)
+	And the norm (Translated)
+
+[2022-04-23 01:42:04] - @stealer:matrix.osolomko.com: тебе писал матанбучус? (Original)
+	Matanbuchus wrote to you? (Translated)
+
+[2022-04-23 01:42:04] - @felix:matrix.osolomko.com: я подымал локальный домен с пхп и sql (Original)
+	I raised a local domain with PHP and SQL (Translated)
+
+[2022-04-23 01:42:10] - @stealer:matrix.osolomko.com: его лоаддерр еще (Original)
+	His Ladderr is still (Translated)
+
+[2022-04-23 01:42:11] - @felix:matrix.osolomko.com: и пробовал его работу (Original)
+	And tried his work (Translated)
+
+[2022-04-23 01:42:12] - @felix:matrix.osolomko.com: ок (Original)
+	OK (Translated)
+
+[2022-05-16 12:51:06] - @stealer:matrix.osolomko.com: revz1605.7z (Original)
+	Revz1605.7z (Translated)
+
+[2022-05-16 12:51:10] - @stealer:matrix.osolomko.com: привет (Original)
+	Hey (Translated)
+
+[2022-05-16 12:51:21] - @stealer:matrix.osolomko.com: протестируй плз крипт-декрипт екси (Original)
+	Test PLZ Crypt-DECRIPT Exisi (Translated)
+
+[2022-05-17 03:55:01] - @felix:matrix.osolomko.com: привет, принял (Original)
+	Hi, accepted (Translated)
+
+[2022-05-17 03:55:39] - @felix:matrix.osolomko.com: щас кобальт на тестах, сегодня сдела (Original)
+	right now cobalt on tests, today (Translated)
+
+[2022-08-18 14:42:15] - @stealer:matrix.osolomko.com: привет (Original)
+	Hey (Translated)
+
+[2022-08-18 14:42:18] - @stealer:matrix.osolomko.com: https://matrix.mpodkk.com/ (Original)
+	nan (Translated)
+
+[2022-08-18 14:42:24] - @stealer:matrix.osolomko.com: переезжаем на это тсервак (Original)
+	We move to this Tservak (Translated)
+
+[2022-08-18 14:42:45] - @stealer:matrix.osolomko.com: felix 123456 (Original)
+	Felix 123456 (Translated)
+
+[2022-08-18 14:42:53] - @stealer:matrix.osolomko.com: подтверди плз что получил креды (Original)
+	Confirm PLZ that I received credits (Translated)
+

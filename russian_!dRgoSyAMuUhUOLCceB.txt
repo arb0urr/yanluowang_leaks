@@ -1,0 +1,30 @@
+[2022-03-30 13:19:30] - @felix:matrix.osolomko.com: ** Unable to decrypt: The sender's device has not sent us the keys for this message. **
+
+[2022-03-30 13:20:05] - @felix:matrix.osolomko.com: ** Unable to decrypt: The sender's device has not sent us the keys for this message. **
+
+[2022-03-30 13:20:07] - @felix:matrix.osolomko.com: ** Unable to decrypt: The sender's device has not sent us the keys for this message. **
+
+[2022-03-30 13:49:56] - @calls:matrix.osolomko.com: ** Unable to decrypt: The sender's device has not sent us the keys for this message. **
+
+[2022-03-30 14:42:33] - @coder:matrix.osolomko.com: ** Unable to decrypt: The sender's device has not sent us the keys for this message. **
+
+[2022-04-01 11:45:59] - @win32:matrix.osolomko.com: test
+
+[2022-04-01 11:46:13] - @coder:matrix.osolomko.com: .+
+
+[2022-04-01 11:47:14] - @win32:matrix.osolomko.com: test
+
+[2022-04-01 11:47:29] - @win32:matrix.osolomko.com: видно всем?
+
+[2022-04-01 11:47:33] - @felix:matrix.osolomko.com: да
+
+[2022-04-01 11:47:35] - @coder:matrix.osolomko.com: Мне да
+
+[2022-04-01 11:48:07] - @ddos:matrix.osolomko.com: +
+
+[2022-04-02 02:55:36] - @saint:matrix.osolomko.com: +
+
+[2022-04-02 10:24:21] - @calls:matrix.osolomko.com: Да
+
+[2022-04-02 10:28:29] - @gykko:matrix.osolomko.com: da
+

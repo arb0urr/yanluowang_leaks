@@ -1,0 +1,30 @@
+[2022-03-30 13:19:30] - @felix:matrix.osolomko.com: ** Unable to Decrypt: The Sender's Device Has Not Sent Us the Keys for this Message. **
+
+[2022-03-30 13:20:05] - @felix:matrix.osolomko.com: ** Unable to Decrypt: The Sender's Device Has Not Sent Us the Keys for this Message. **
+
+[2022-03-30 13:20:07] - @felix:matrix.osolomko.com: ** Unable to Decrypt: The Sender's Device Has Not Sent Us the Keys for this Message. **
+
+[2022-03-30 13:49:56] - @calls:matrix.osolomko.com: ** Unable to Decrypt: The Sender's Device Has Not Sent Us the Keys for this Message. **
+
+[2022-03-30 14:42:33] - @coder:matrix.osolomko.com: ** Unable to Decrypt: The Sender's Device Has Not Sent Us the Keys for this Message. **
+
+[2022-04-01 11:45:59] - @win32:matrix.osolomko.com: Test
+
+[2022-04-01 11:46:13] - @coder:matrix.osolomko.com: .+
+
+[2022-04-01 11:47:14] - @win32:matrix.osolomko.com: Test
+
+[2022-04-01 11:47:29] - @win32:matrix.osolomko.com: You can see everyone?
+
+[2022-04-01 11:47:33] - @felix:matrix.osolomko.com: Yes
+
+[2022-04-01 11:47:35] - @coder:matrix.osolomko.com: Yes, for me
+
+[2022-04-01 11:48:07] - @ddos:matrix.osolomko.com: +
+
+[2022-04-02 02:55:36] - @saint:matrix.osolomko.com: +
+
+[2022-04-02 10:24:21] - @calls:matrix.osolomko.com: Yes
+
+[2022-04-02 10:28:29] - @gykko:matrix.osolomko.com: Yes
+

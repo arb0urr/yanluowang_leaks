@@ -1,0 +1,54 @@
+[2022-04-22 02:10:19] - @felix:matrix.osolomko.com: Привет. Скинь пжста последнее что протестить нужно, я про бота
+
+[2022-04-22 04:21:55] - @stealer:matrix.osolomko.com: 2t.7z
+
+[2022-04-22 04:22:01] - @stealer:matrix.osolomko.com: привет
+
+[2022-04-22 16:45:18] - @stealer:matrix.osolomko.com: @stealer:matrix.osolomko.com is requesting to verify your key, but your client does not support in-chat key verification.  You will need to use legacy key verification to verify keys.
+
+[2022-04-22 16:47:36] - @stealer:matrix.osolomko.com: @stealer:matrix.osolomko.com is requesting to verify your key, but your client does not support in-chat key verification.  You will need to use legacy key verification to verify keys.
+
+[2022-04-22 16:49:58] - @stealer:matrix.osolomko.com: @stealer:matrix.osolomko.com is requesting to verify your key, but your client does not support in-chat key verification.  You will need to use legacy key verification to verify keys.
+
+[2022-04-23 01:34:19] - @felix:matrix.osolomko.com: бро, не было на месте
+
+[2022-04-23 01:34:22] - @felix:matrix.osolomko.com: сегодня сделаю тесты
+
+[2022-04-23 01:39:32] - @stealer:matrix.osolomko.com: ок
+
+[2022-04-23 01:41:36] - @felix:matrix.osolomko.com: такс, а что мне тестить? 
+
+[2022-04-23 01:41:42] - @felix:matrix.osolomko.com: самого бота я еще с вин32 тестил
+
+[2022-04-23 01:41:52] - @stealer:matrix.osolomko.com: а норм
+
+[2022-04-23 01:42:04] - @stealer:matrix.osolomko.com: тебе писал матанбучус?
+
+[2022-04-23 01:42:04] - @felix:matrix.osolomko.com: я подымал локальный домен с пхп и sql
+
+[2022-04-23 01:42:10] - @stealer:matrix.osolomko.com: его лоаддерр еще
+
+[2022-04-23 01:42:11] - @felix:matrix.osolomko.com: и пробовал его работу
+
+[2022-04-23 01:42:12] - @felix:matrix.osolomko.com: ок
+
+[2022-05-16 12:51:06] - @stealer:matrix.osolomko.com: revz1605.7z
+
+[2022-05-16 12:51:10] - @stealer:matrix.osolomko.com: привет
+
+[2022-05-16 12:51:21] - @stealer:matrix.osolomko.com: протестируй плз крипт-декрипт екси
+
+[2022-05-17 03:55:01] - @felix:matrix.osolomko.com: привет, принял
+
+[2022-05-17 03:55:39] - @felix:matrix.osolomko.com: щас кобальт на тестах, сегодня сдела
+
+[2022-08-18 14:42:15] - @stealer:matrix.osolomko.com: привет
+
+[2022-08-18 14:42:18] - @stealer:matrix.osolomko.com: https://matrix.mpodkk.com/
+
+[2022-08-18 14:42:24] - @stealer:matrix.osolomko.com: переезжаем на это тсервак
+
+[2022-08-18 14:42:45] - @stealer:matrix.osolomko.com: felix 123456
+
+[2022-08-18 14:42:53] - @stealer:matrix.osolomko.com: подтверди плз что получил креды
+

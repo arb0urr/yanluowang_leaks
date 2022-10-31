@@ -1,0 +1,3041 @@
+[2022-01-17 10:49:16] - @killanas:matrix.mtololo.com: Привет. 
+
+[2022-01-17 10:49:45] - @killanas:matrix.mtololo.com: По морферу главная цель - это снижение детектов ?
+
+[2022-01-17 13:00:48] - @saint:matrix.mtololo.com: да
+
+[2022-01-17 13:00:52] - @saint:matrix.mtololo.com: и паттерны убрать
+
+[2022-01-17 13:00:58] - @saint:matrix.mtololo.com: что бы их вообще не могло появится)
+
+[2022-01-17 13:02:18] - @killanas:matrix.mtololo.com: Конечно же это в идеале )
+
+[2022-01-17 13:02:36] - @killanas:matrix.mtololo.com: Как тебе моя ава?) С тебя пример взял)
+
+[2022-01-17 13:02:45] - @saint:matrix.mtololo.com: нормальная
+
+[2022-01-17 13:02:48] - @saint:matrix.mtololo.com: но это казах по моему
+
+[2022-01-17 13:03:00] - @killanas:matrix.mtololo.com: Гугл выдал по вопросу китаец.
+
+[2022-01-17 13:03:05] - @killanas:matrix.mtololo.com: По запросу 
+
+[2022-01-17 13:03:32] - @killanas:matrix.mtololo.com: Но да) на Сабурова и скриптонита похож)
+
+[2022-01-18 06:28:00] - @killanas:matrix.mtololo.com: Под морфером я понимаю, что  это то что с диска загружается в память и распаковывает в памяти полезную нагрузку потом меняет ее каждый раз по разному (обфусцирует)
+при это на диске все время будет один и тотже бинарь который будет палиться со временем
+еще возможен вариант что морфер меняет прямо в себе куски кода которые могут попадать под сигнатуры
+но алгоритм изменения этих кусков тоже будет палиться потому что он один и тот же.
+У нас сейчас детекты были в основном на диск.
+То есть когда записывается на диск авер это проверяет.
+
+
+[2022-01-18 06:28:06] - @killanas:matrix.mtololo.com: То что записывается на диск.
+
+[2022-01-19 10:48:18] - @saint:matrix.mtololo.com: куски кода
+
+[2022-01-19 10:48:24] - @saint:matrix.mtololo.com: и диск
+
+[2022-01-19 11:10:57] - @killanas:matrix.mtololo.com: под морфером ты понимаешь что локер будет каждый раз себя по разному распаковывать в памяти?
+
+[2022-01-19 11:11:46] - @killanas:matrix.mtololo.com: или то, что машинный код в исполняемом файле на диске будет разный?
+
+[2022-01-20 06:24:00] - @saint:matrix.mtololo.com: и то и то)))))
+
+[2022-01-20 07:19:24] - @killanas:matrix.mtololo.com: А по монеткам сколько будет?)
+
+[2022-01-21 13:12:30] - @killanas:matrix.mtololo.com: Привет. По рсе не могу справиться. Уебал много времени, но походу не хватает скила.
+
+[2022-01-21 13:13:25] - @killanas:matrix.mtololo.com: По реверс шелк в легитимном по. Есть подвижки. А точнее в тимвьювере, есть возможность подсунуть свою либу.
+
+[2022-01-21 13:14:04] - @killanas:matrix.mtololo.com: Если актуально конечно.
+
+[2022-01-21 13:16:25] - @killanas:matrix.mtololo.com: Если в качестве легитимного по взять какой нибудь медиа плеер и тд. То можно найти исходники и запихнуть что угодно. Из примеров что ты дал (tm и эни деск) жёстко.
+Но с тимкой вроде нашел подход, не смотря на его защиту.
+
+[2022-01-22 19:08:12] - @saint:matrix.mtololo.com: тимка-энидеск только
+
+[2022-01-22 19:11:31] - @killanas:matrix.mtololo.com: Понял
+
+[2022-01-24 08:04:27] - @saint:matrix.mtololo.com: скинь лпе
+
+[2022-01-24 08:04:30] - @saint:matrix.mtololo.com: который 0 дей был
+
+[2022-01-24 08:04:33] - @saint:matrix.mtololo.com: юзера добавляет
+
+[2022-01-24 08:04:42] - @killanas:matrix.mtololo.com: Привет 
+
+[2022-01-24 08:04:45] - @killanas:matrix.mtololo.com: Сейчас гляну 
+
+[2022-01-24 08:20:00] - @saint:matrix.mtololo.com: ?
+
+[2022-01-24 08:20:30] - @killanas:matrix.mtololo.com: Да у меня снапшотов куча 
+
+[2022-01-24 08:20:32] - @killanas:matrix.mtololo.com: Искал 
+
+[2022-01-24 08:20:52] - @killanas:matrix.mtololo.com: exploit_20220124181946.zip
+
+[2022-01-24 08:21:04] - @killanas:matrix.mtololo.com: a10e0d2c4b493395a4c6a464dc2b8a4f
+
+[2022-01-24 08:26:03] - @saint:matrix.mtololo.com: это точно он?
+
+[2022-01-24 08:42:55] - @killanas:matrix.mtololo.com: cmd.exe /c net user random random /add && net localgroup administrators random /add
+
+[2022-01-24 08:42:57] - @killanas:matrix.mtololo.com: ?
+
+[2022-01-24 08:43:09] - @saint:matrix.mtololo.com: лда
+
+[2022-01-24 08:43:48] - @saint:matrix.mtololo.com: не делает юзера
+
+[2022-01-24 08:45:41] - @killanas:matrix.mtololo.com: минутку проверю
+
+[2022-01-24 08:46:23] - @killanas:matrix.mtololo.com: Но на память три символа пароля именно от той сборки что я давал
+
+[2022-01-24 09:33:09] - @killanas:matrix.mtololo.com: Все четко 
+
+[2022-01-24 09:33:24] - @killanas:matrix.mtololo.com: Под чистой семёркой создаётся .
+
+[2022-01-24 09:34:15] - @killanas:matrix.mtololo.com: Под моей девелоперской десяткой не работает
+
+[2022-01-24 09:34:24] - @killanas:matrix.mtololo.com: Но там возможно билд какой то нестандартный
+
+[2022-01-24 09:34:31] - @killanas:matrix.mtololo.com: Она урезанная
+
+[2022-01-24 11:38:44] - @killanas:matrix.mtololo.com: Работает ?
+
+[2022-01-24 13:11:44] - @saint:matrix.mtololo.com: не
+
+[2022-01-24 13:12:09] - @killanas:matrix.mtololo.com: Блин. Но это точно тот файл что я засылал. Я не мог затупить.
+
+[2022-01-24 13:12:28] - @killanas:matrix.mtololo.com: Да и я проверил...
+
+[2022-01-24 19:28:35] - @saint:matrix.mtololo.com: сделай эксп
+
+[2022-01-24 19:28:44] - @saint:matrix.mtololo.com: exploit.exe username password
+
+[2022-01-24 19:28:46] - @saint:matrix.mtololo.com: такого вида
+
+[2022-01-24 19:28:49] - @saint:matrix.mtololo.com: запуск
+
+[2022-01-24 19:28:51] - @saint:matrix.mtololo.com: а то не везде работает
+
+[2022-01-24 20:11:31] - @killanas:matrix.mtololo.com: Привет 
+
+[2022-01-24 20:11:32] - @killanas:matrix.mtololo.com: Ок
+
+[2022-01-28 23:57:30] - @saint:matrix.mtololo.com: https://www.sendspace.com/file/6nh6le
+
+[2022-01-28 23:57:35] - @saint:matrix.mtololo.com: тут не наши сурцы?
+
+[2022-01-29 01:17:53] - @killanas:matrix.mtololo.com: Ебать 
+
+[2022-01-29 01:17:56] - @killanas:matrix.mtololo.com: Наши 
+
+[2022-01-29 01:19:02] - @killanas:matrix.mtololo.com: Чё за 
+
+[2022-01-29 01:25:49] - @killanas:matrix.mtololo.com: Исходники наши.
+
+[2022-01-29 01:25:55] - @killanas:matrix.mtololo.com: По дате после ноября точно 
+
+[2022-01-29 01:26:04] - @killanas:matrix.mtololo.com: Но мало фоток что бы понять примерную дату 
+
+[2022-01-29 01:28:42] - @saint:matrix.mtololo.com: https://xss.is/threads/61997/#post-413541
+
+[2022-01-29 01:29:21] - @saint:matrix.mtololo.com: кто это такой?
+
+[2022-01-29 01:29:25] - @saint:matrix.mtololo.com: и откуда у него сурцы
+
+[2022-01-29 01:30:14] - @killanas:matrix.mtololo.com: Бля. Там специалисты кодинга набежали сразу. На хсс как обычно.
+
+[2022-01-29 01:30:22] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> и откуда у него сурцы
+
+У меня пока такой же вопрос 
+
+[2022-01-29 01:30:32] - @killanas:matrix.mtololo.com: Сурцы я тебе и стилеру только 1 раз кидал 
+
+[2022-01-29 01:30:35] - @killanas:matrix.mtololo.com: Оооочень давно 
+
+[2022-01-29 01:30:43] - @saint:matrix.mtololo.com: на гите у нас лежат?
+
+[2022-01-29 01:30:51] - @killanas:matrix.mtololo.com: Скрины с вскода
+
+[2022-01-29 01:31:00] - @killanas:matrix.mtololo.com: У нас ни кто не юзает эту иде
+
+[2022-01-29 01:31:07] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> на гите у нас лежат?
+
+Да. Конечно 
+
+[2022-01-29 01:31:16] - @saint:matrix.mtololo.com: мог с твоих кто то взять?
+
+[2022-01-29 01:31:19] - @saint:matrix.mtololo.com: стиллер молчит
+
+[2022-01-29 01:31:55] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> мог с твоих кто то взять?
+
+Ну про того которого я выпиздил 
+
+[2022-01-29 01:31:58] - @killanas:matrix.mtololo.com: Кодера 
+
+[2022-01-29 01:32:10] - @saint:matrix.mtololo.com: это он может?
+
+[2022-01-29 01:32:32] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> это он может?
+
+Ну теоретически все у кого был доступ могут взять.
+
+[2022-01-29 01:32:43] - @killanas:matrix.mtololo.com: Но я его 8 лет знаю не должен.
+
+[2022-01-29 01:33:01] - @saint:matrix.mtololo.com: ну там чел судя по сообщению
+
+[2022-01-29 01:33:04] - @killanas:matrix.mtololo.com: С моих я всех лично знаю очень долго 
+
+[2022-01-29 01:33:05] - @saint:matrix.mtololo.com: не знает кто заказчик
+
+[2022-01-29 01:33:09] - @saint:matrix.mtololo.com: и думает что китаец какой то
+
+[2022-01-29 01:33:10] - @saint:matrix.mtololo.com: )
+
+[2022-01-29 01:33:33] - @saint:matrix.mtololo.com: Че за хреня, оставили прямь на виду хоть кто хочет бери и качай:
+
+[2022-01-29 01:33:37] - @saint:matrix.mtololo.com: меняйте у себя все креды на гит
+
+[2022-01-29 01:33:41] - @saint:matrix.mtololo.com: я попрошу перенести
+
+[2022-01-29 01:33:43] - @killanas:matrix.mtololo.com: Я очковал ещё давно что сурцы убегут. Ты сказал что похуй.
+Я просто пока не могу понять на сколько актуальный код 
+
+[2022-01-29 01:33:45] - @saint:matrix.mtololo.com: мб ломанули кого
+
+[2022-01-29 01:34:15] - @killanas:matrix.mtololo.com: Надеюсь без распространения)
+
+[2022-01-29 01:34:24] - @killanas:matrix.mtololo.com: И без набросков морфера )
+
+[2022-01-29 01:34:32] - @saint:matrix.mtololo.com: ну если с этим в паблик выкинуть придется
+
+[2022-01-29 01:34:34] - @saint:matrix.mtololo.com: и новый пилить
+
+[2022-01-29 01:34:35] - @saint:matrix.mtololo.com: с 0
+
+[2022-01-29 01:34:40] - @saint:matrix.mtololo.com: я хз уже
+
+[2022-01-29 01:34:44] - @saint:matrix.mtololo.com: уйду на пенсию наверн
+
+[2022-01-29 01:34:47] - @saint:matrix.mtololo.com: заебало меня все
+
+[2022-01-29 01:35:10] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> уйду на пенсию наверн
+
+На какую пенсию ) я ещё на хату не заработал ) давай потом )
+
+[2022-01-29 01:35:33] - @killanas:matrix.mtololo.com: Мы тогда на всех рабочих местах ось поменяем 
+
+[2022-01-29 01:36:14] - @killanas:matrix.mtololo.com: И наверное физически перенесу всё
+
+[2022-01-29 01:37:08] - @killanas:matrix.mtololo.com: Я бы глянул ещё лог гита, на всякий случай 
+
+[2022-01-29 01:40:13] - @killanas:matrix.mtololo.com: Ну по распространению есть ещё одна идея как запилить его полностью с нуля и довольно эффективно.
+
+[2022-01-29 01:40:28] - @killanas:matrix.mtololo.com: а вот если локер с нуля пилить это пиздец
+
+[2022-01-29 01:46:41] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> https://xss.is/threads/61997/#post-413541
+
+Что он за ахинею написал в топике
+
+[2022-01-29 02:00:23] - @saint:matrix.mtololo.com: ты точно уверен что наше?
+
+[2022-01-29 02:00:34] - @saint:matrix.mtololo.com: в hellokitty кусок кода с taskkill /f /im * тоже юзали
+
+[2022-01-29 02:00:38] - @saint:matrix.mtololo.com: и пасс на запуск тоже был
+
+[2022-01-29 02:10:54] - @killanas:matrix.mtololo.com: Смотрю пока по внимательнее 
+
+[2022-01-29 02:11:49] - @saint:matrix.mtololo.com: Их малварь полное говно, моя бабушка могла бы писать лучше чем вся эта хреня.
+Артем конечно будет отрицать, но он знает, что это правда. Я сам это знаю, все из конти знают.
+Я бы докснул их, если бы мог.
+
+[2022-01-29 02:11:53] - @saint:matrix.mtololo.com: точно не про вас?)
+
+[2022-01-29 02:13:49] - @saint:matrix.mtololo.com: аа
+
+[2022-01-29 02:13:53] - @saint:matrix.mtololo.com: точно с янлуованга это
+
+[2022-01-29 02:13:56] - @saint:matrix.mtololo.com: тма .yanluowang
+
+[2022-01-29 02:13:59] - @saint:matrix.mtololo.com: расширение ставит рансом
+
+[2022-01-29 02:14:00] - @saint:matrix.mtololo.com: ))
+
+[2022-01-29 02:14:14] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> точно не про вас?)
+
+Ну я хорошо отношусь только к эксплоиту, там товарищи в основном по делу хуесосят людей.
+А на хсс я попытался сделать топик по реверсу, ну обратился один человек, ну не смог снять ему линуксовую привязку, ну написал об этом. 
+Так мне пиздец там посыпалось типо делов 5 минут, и тд. поэтому я на хсс не сижу.
+
+[2022-01-29 02:14:19] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> тма .yanluowang
+
+да
+
+[2022-01-29 02:14:27] - @killanas:matrix.mtololo.com: там тип на трендмикро даже линк дал)
+
+[2022-01-29 02:14:39] - @saint:matrix.mtololo.com: я не видел просто именно этот кусок
+
+[2022-01-29 02:14:42] - @saint:matrix.mtololo.com: теперь увидел
+
+[2022-01-29 02:16:01] - @killanas:matrix.mtololo.com: что то меня трясёт
+
+[2022-01-29 02:16:26] - @saint:matrix.mtololo.com: ладно хоть написал чел что заказчики китайцы
+
+[2022-01-29 02:16:26] - @saint:matrix.mtololo.com: )
+
+[2022-01-29 02:16:59] - @killanas:matrix.mtololo.com: Да он какую то жесть написал)
+
+[2022-01-29 02:17:10] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> ладно хоть написал чел что заказчики китайцы
+
+согласен)
+
+[2022-01-29 02:17:56] - @killanas:matrix.mtololo.com: Просто откуда код...
+
+[2022-01-29 02:18:01] - @killanas:matrix.mtololo.com: убежал
+
+[2022-01-29 02:18:05] - @saint:matrix.mtololo.com: у тебя на рампе есть креды?
+
+[2022-01-29 02:18:09] - @killanas:matrix.mtololo.com: нее
+
+[2022-01-29 02:18:14] - @killanas:matrix.mtololo.com: я ток на экспе и хсс
+
+[2022-01-29 02:18:15] - @saint:matrix.mtololo.com: а сыллку знаешь?
+
+[2022-01-29 02:18:18] - @saint:matrix.mtololo.com: глянуть хочу че там
+
+[2022-01-29 02:18:41] - @killanas:matrix.mtololo.com: не, сейчас тоже поищу
+
+[2022-01-29 02:26:33] - @killanas:matrix.mtololo.com: А кому нибудь ещё гит давался ?
+
+[2022-01-29 02:26:44] - @saint:matrix.mtololo.com: нет
+
+[2022-01-29 02:38:50] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> точно не про вас?)
+
+То что код хуйня, точно не про нас )
+Задачи выполняются, значит код заебись )
+А попиздеть, что он заебатый каждый 2 готов)
+
+[2022-01-29 02:39:03] - @killanas:matrix.mtololo.com: 3 скрина железка наши, 3 не понятно 
+
+[2022-01-29 02:52:22] - @killanas:matrix.mtololo.com: Слушай. Та а чего я переживаю. Наоборот же заебись получается, все как ты и хотел, на китайцев, трикботов, Конти, рамп все стрелы.
+По сути от нас, только среагировать на инцидент.
+1) понять актуальность спизженного кода
+2) постараться понять откуда спиздили 
+
+[2022-01-29 02:52:42] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> ладно хоть написал чел что заказчики китайцы
+
+Все как ты и планировал)
+
+[2022-01-29 05:26:43] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> мог с твоих кто то взять?
+
+Мои все счастливы до усерачки от полученных бабок, не может быть что бы они были обижены деньгами. Ни те кто щас, ни тот кого выпиздил.
+
+[2022-01-29 05:26:58] - @killanas:matrix.mtololo.com: На гите есть комит от 23 ноября. Там мы меняли строки 
+
+[2022-01-29 05:27:08] - @killanas:matrix.mtololo.com: Они отличаются от тех что на скрине в персистенсе 
+
+[2022-01-29 05:27:27] - @killanas:matrix.mtololo.com: Думаю если бы с гита спиздили. То была последняя версия 
+
+[2022-01-29 05:30:38] - @killanas:matrix.mtololo.com: Ещё есть отличия как раз таки в кодировке. Вспомнить бы дату когда были траблы в кейсе с кодировкой 
+
+[2022-01-29 05:34:31] - @killanas:matrix.mtololo.com: image.png
+
+[2022-01-29 05:34:52] - @killanas:matrix.mtololo.com: У тебя не осталось файла с исходниками которые я скидывал?
+
+[2022-01-29 05:35:06] - @killanas:matrix.mtololo.com: тебе и стилеру. примерно октябрь
+
+[2022-01-29 05:35:25] - @saint:matrix.mtololo.com: неа
+
+[2022-01-29 09:08:11] - @killanas:matrix.mtololo.com: Ну я походу догнал где я (мы) могли проебать исходники 
+
+[2022-01-29 09:13:26] - @killanas:matrix.mtololo.com: Гит не причем и ни кто не ловил стилера
+
+[2022-01-29 13:49:32] - @saint:matrix.mtololo.com: где
+
+[2022-01-29 13:53:30] - @killanas:matrix.mtololo.com: Но опять же предположение. Где со слов автоматмогли просто оставить исходники. Был сервак рдпшный. На нем дебажились когда бага какая то была очередная. То ли с размером файлов Толи ещё с чем то.
+
+[2022-01-29 13:54:15] - @saint:matrix.mtololo.com: c lbcrfv
+
+[2022-01-29 13:54:17] - @saint:matrix.mtololo.com: с дисками?
+
+[2022-01-29 13:54:24] - @killanas:matrix.mtololo.com: Вероятнее всего
+
+[2022-01-29 13:54:31] - @saint:matrix.mtololo.com: там все диски стерли в 0
+
+[2022-01-29 13:54:38] - @saint:matrix.mtololo.com: и физически уничтожили
+
+[2022-01-29 13:54:46] - @killanas:matrix.mtololo.com: Ну так и версия слитного кода до 23 ноября судя по гиту
+
+[2022-01-29 13:55:04] - @saint:matrix.mtololo.com: ну так туда и доступ у нас только был
+
+[2022-01-29 13:55:10] - @saint:matrix.mtololo.com: и появился он позже
+
+[2022-01-29 13:55:14] - @killanas:matrix.mtololo.com: Ну стилер тоже самое сказал 
+
+[2022-01-29 13:55:19] - @killanas:matrix.mtololo.com: Что только у тебя и меня был 
+
+[2022-01-29 13:55:28] - @killanas:matrix.mtololo.com: Ну у него тоже но он не ходил туда 
+
+[2022-01-29 13:56:06] - @killanas:matrix.mtololo.com: Ну тоесть ты ни кому не давал от этого сервера в октябре ноябре креды ? Ну кроме меня и стилера 
+
+[2022-01-29 13:56:14] - @saint:matrix.mtololo.com: нет
+
+[2022-01-29 13:56:28] - @saint:matrix.mtololo.com: у феликса если только
+
+[2022-01-29 13:56:30] - @killanas:matrix.mtololo.com: Блин. Ну просто с гита бы слили актуальную версию 
+
+[2022-01-29 13:56:42] - @saint:matrix.mtololo.com: ну у вас же свой гит был
+
+[2022-01-29 13:56:44] - @saint:matrix.mtololo.com: который сгорел
+
+[2022-01-29 13:56:47] - @saint:matrix.mtololo.com: или чет такое
+
+[2022-01-29 13:56:55] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> ну у вас же свой гит был
+
+Он был у меня на физическом компе 
+
+[2022-01-29 13:57:01] - @saint:matrix.mtololo.com: ну вот
+
+[2022-01-29 13:57:04] - @saint:matrix.mtololo.com: мб оттуда слили и все
+
+[2022-01-29 13:58:22] - @killanas:matrix.mtololo.com: Проверить не смогу, он канул в лету. Ну в тот период когда помнишь мы на неделю откатывались 
+
+[2022-01-29 13:59:29] - @saint:matrix.mtololo.com: числа вспомни и все
+
+[2022-01-29 13:59:39] - @killanas:matrix.mtololo.com: Ну не вяжется с версией автора, что он обиженный и ему не платят 
+
+[2022-01-29 14:00:29] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> числа вспомни и все
+
+Какие числа ?
+
+[2022-01-29 14:04:13] - @killanas:matrix.mtololo.com: В общем. В этих исходниках записка тестовая
+нет даты файла для крипта
+нет многопотока
+и конечно нет остальных фич более позних
+
+[2022-01-29 14:05:46] - @killanas:matrix.mtololo.com: Но мы все равно операционки и виртуалки заново понакатываем на всякий случай ?
+
+[2022-01-29 14:06:24] - @saint:matrix.mtololo.com: да
+
+[2022-01-29 14:37:45] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> мб оттуда слили и все
+
+Оттуда не моги слить, потому что он вообще не точнал в интернет. Он был за натом в локалке
+
+[2022-01-29 14:38:10] - @killanas:matrix.mtololo.com: ну мой гит который сдох
+
+[2022-01-29 14:45:47] - @killanas:matrix.mtololo.com: Взял у кодера который работал с нами исходники которые у него оставались когда он перестал работать. (а он ушел от нас после того как падал мой гит и жесткий)
+Последний раз он работал 12.10.2021 (там ещё нет персистенса который на скрине)
+Пока получается что исходники попадают в дату от 12.20.2021 до 23.11.2021
+
+[2022-01-30 06:06:47] - @saint:matrix.mtololo.com: https://privnote.com/iyOHM6UE#sUxJXJe0m
+
+[2022-01-30 06:06:52] - @saint:matrix.mtololo.com: сделай билд с запиской
+
+[2022-01-30 06:06:57] - @saint:matrix.mtololo.com: отдай его на тесты феликсу
+
+[2022-01-30 06:07:59] - @killanas:matrix.mtololo.com: Привет.
+Принял.
+
+[2022-01-30 06:09:00] - @saint:matrix.mtololo.com: ток перед тестами
+
+[2022-01-30 06:09:03] - @saint:matrix.mtololo.com: я тебе дам доступ
+
+[2022-01-30 06:09:07] - @saint:matrix.mtololo.com: серт установи на файл
+
+[2022-01-30 06:09:21] - @killanas:matrix.mtololo.com: Хорошо
+
+[2022-01-30 09:36:31] - @killanas:matrix.mtololo.com: Готов сделать билд.
+Подскажи пожалуйста по подписи 
+
+[2022-01-30 18:41:18] - @saint:matrix.mtololo.com: и че
+
+[2022-01-30 18:41:20] - @saint:matrix.mtololo.com: не сделал
+
+[2022-01-30 18:41:21] - @saint:matrix.mtololo.com: что ли
+
+[2022-01-30 18:41:22] - @saint:matrix.mtololo.com: ?
+
+[2022-01-30 18:45:46] - @killanas:matrix.mtololo.com: Ты сказал сделать, билд, подписать и потом  Феликсу на тесты. 
+
+[2022-01-30 18:46:37] - @saint:matrix.mtololo.com: pass (2).txt
+
+[2022-01-30 18:46:37] - @saint:matrix.mtololo.com: cert.pfx
+
+[2022-01-30 18:47:13] - @killanas:matrix.mtololo.com: Ок
+
+[2022-01-30 18:47:42] - @killanas:matrix.mtololo.com: Пароль 123456 ?
+
+[2022-01-30 18:48:05] - @saint:matrix.mtololo.com: забей
+
+[2022-01-30 18:48:07] - @saint:matrix.mtololo.com: это ов серт
+
+[2022-01-30 18:48:10] - @saint:matrix.mtololo.com: хуета кароче
+
+[2022-01-30 18:49:16] - @killanas:matrix.mtololo.com: Может завслать не подписанный пока ?
+
+[2022-01-30 18:51:01] - @saint:matrix.mtololo.com: Поменялись данные для входа
+583 644 556
+zyuanm6g
+
+[2022-01-30 18:51:08] - @saint:matrix.mtololo.com: там старым подпишем тогда
+
+[2022-01-30 18:51:21] - @saint:matrix.mtololo.com: пасс 12345678 на токен
+
+[2022-01-30 18:51:26] - @killanas:matrix.mtololo.com: Его не отозвали ?)
+
+[2022-01-30 18:51:34] - @saint:matrix.mtololo.com: хуй знает
+
+[2022-01-30 18:51:36] - @killanas:matrix.mtololo.com: Ок
+
+[2022-01-30 18:51:40] - @saint:matrix.mtololo.com: дрпугих нет
+
+[2022-01-30 18:51:45] - @killanas:matrix.mtololo.com: Понял
+
+[2022-01-30 19:25:41] - @killanas:matrix.mtololo.com: Подключился. Вот только ещё на ос нужен пасс
+
+[2022-01-30 21:58:50] - @saint:matrix.mtololo.com: spirit133
+
+[2022-01-30 22:03:37] - @saint:matrix.mtololo.com: coder0: 
+
+[2022-01-30 22:11:12] - @saint:matrix.mtololo.com: coder0: 
+
+[2022-01-30 22:11:30] - @saint:matrix.mtololo.com: coder0: 
+
+[2022-01-30 22:11:32] - @saint:matrix.mtololo.com: coder0: 
+
+[2022-01-30 22:11:34] - @saint:matrix.mtololo.com: coder0: coder0: 
+
+[2022-01-30 22:11:35] - @saint:matrix.mtololo.com: coder0: 
+
+[2022-01-30 22:14:33] - @saint:matrix.mtololo.com: coder0: 
+
+[2022-01-30 22:14:35] - @saint:matrix.mtololo.com: coder0: 
+
+[2022-01-30 22:14:39] - @saint:matrix.mtololo.com: @saint:matrix.mtololo.com is requesting to verify your key, but your client does not support in-chat key verification.  You will need to use legacy key verification to verify keys.
+
+[2022-01-30 22:17:05] - @saint:matrix.mtololo.com: билд мне отправь
+
+[2022-01-30 22:17:06] - @saint:matrix.mtololo.com: быстрее
+
+[2022-01-30 22:25:54] - @saint:matrix.mtololo.com: @saint:matrix.mtololo.com is requesting to verify your key, but your client does not support in-chat key verification.  You will need to use legacy key verification to verify keys.
+
+[2022-01-30 22:32:08] - @saint:matrix.mtololo.com: але
+
+[2022-01-30 22:32:10] - @saint:matrix.mtololo.com: coder0: 
+
+[2022-01-30 22:33:39] - @saint:matrix.mtololo.com: coder0: 
+
+[2022-01-30 22:44:04] - @saint:matrix.mtololo.com: ¯\_(ツ)_/¯
+
+[2022-01-30 22:44:57] - @saint:matrix.mtololo.com: ALO
+
+[2022-01-30 23:20:12] - @saint:matrix.mtololo.com: coder0: 
+
+[2022-01-30 23:31:05] - @killanas:matrix.mtololo.com: Ты дал Тим вьювер
+
+[2022-01-30 23:31:13] - @killanas:matrix.mtololo.com: Там пасс на Винду 
+
+[2022-01-30 23:31:20] - @killanas:matrix.mtololo.com: У меня нет пасса 
+
+[2022-01-30 23:31:26] - @killanas:matrix.mtololo.com: Не могу залогиниться 
+
+[2022-01-30 23:31:28] - @killanas:matrix.mtololo.com: ((
+
+[2022-01-30 23:32:06] - @killanas:matrix.mtololo.com: 5 минут закину. Не дождался. Вырубило. Поставил будильник. Что бы проверять от тебя мессаги )
+
+[2022-01-30 23:40:59] - @killanas:matrix.mtololo.com: TRGT_30_1_22.rar
+
+[2022-01-30 23:41:05] - @killanas:matrix.mtololo.com: GuU1zn1BzI6BDvZT75e%
+
+[2022-01-30 23:59:46] - @saint:matrix.mtololo.com: не тестили?
+
+[2022-01-30 23:59:53] - @killanas:matrix.mtololo.com: Нет
+
+[2022-01-31 00:00:07] - @saint:matrix.mtololo.com: без подписи?
+
+[2022-01-31 00:00:22] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> без подписи?
+
+Без
+
+[2022-01-31 00:04:08] - @killanas:matrix.mtololo.com: image.png
+
+[2022-01-31 00:04:17] - @saint:matrix.mtololo.com: я сделал уже
+
+[2022-01-31 00:13:54] - @killanas:matrix.mtololo.com: Если можно, можешь прислать md5 или sha256 хэш подписанного файла?
+Сохраню, что бы потом на вт и в интернетах искать
+
+[2022-01-31 00:58:59] - @saint:matrix.mtololo.com: image.png
+
+[2022-01-31 00:59:01] - @saint:matrix.mtololo.com: что за ошибка
+
+[2022-01-31 01:06:27] - @saint:matrix.mtololo.com: image.png
+
+[2022-01-31 01:19:18] - @killanas:matrix.mtololo.com: Такое чувство что он сетевую шару не может воспринять в пути
+
+[2022-01-31 01:22:27] - @killanas:matrix.mtololo.com: Попробуй пож-та потом полный путь до шары передать.
+Я конечно попробую воспроизвести ошибку пофиксить
+
+[2022-01-31 01:22:49] - @killanas:matrix.mtololo.com: На конце без слеша
+
+[2022-01-31 01:25:23] - @saint:matrix.mtololo.com: пробовал
+
+[2022-01-31 01:25:30] - @saint:matrix.mtololo.com: он из за двойнего слеша ругается скорее всего
+
+[2022-01-31 01:25:37] - @saint:matrix.mtololo.com: маячь с unc путями
+
+[2022-01-31 01:25:39] - @saint:matrix.mtololo.com: что бы работало
+
+[2022-01-31 01:25:47] - @saint:matrix.mtololo.com: -path \\ip\c$
+
+[2022-01-31 01:38:31] - @killanas:matrix.mtololo.com: Понял 
+
+[2022-01-31 03:15:28] - @killanas:matrix.mtololo.com: Самораспространение отработало? или ты без него запускал?
+
+[2022-01-31 03:31:49] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> sent an image.
+
+Тут невалидный хендл (собственно так и написано), нужно дебажить такую же ситуацию, возможно файл занят чем-то более приоритетным. 
+Подскажи много ли таких файлов ? (по идее их должно быть довольно маленькое количество)
+Можно ли забрать пару файлов на всякий ?
+
+[2022-01-31 03:53:51] - @saint:matrix.mtololo.com: много
+
+[2022-01-31 03:53:55] - @saint:matrix.mtololo.com: 70-90% такизх
+
+[2022-01-31 03:55:18] - @killanas:matrix.mtololo.com: Дай плз пару файлов
+
+[2022-01-31 03:57:05] - @saint:matrix.mtololo.com: 5985790 pana.pdf
+
+[2022-01-31 04:18:39] - @killanas:matrix.mtololo.com: и путь как он там есть
+
+[2022-01-31 04:19:07] - @saint:matrix.mtololo.com: s:\Departments\AP\AA HOME FOLDER-JACKIE\Journal Entry\FY2021\12 DEC 2020\JRNL 948229 12.09.20\pana 10757 stmt 201120 nov 16-20
+
+[2022-01-31 05:58:59] - @killanas:matrix.mtololo.com: через ResourceMonitor в диспетчере задач эти файлы не заняты?
+
+[2022-01-31 06:02:05] - @saint:matrix.mtololo.com: я не знаю
+
+[2022-01-31 06:02:29] - @saint:matrix.mtololo.com: даже если заняты файлы
+
+[2022-01-31 06:02:32] - @saint:matrix.mtololo.com: нужен механизм
+
+[2022-01-31 06:02:35] - @saint:matrix.mtololo.com: освобождения их)
+
+[2022-01-31 06:03:10] - @killanas:matrix.mtololo.com: Такое механизм есть. 
+
+[2022-01-31 06:03:18] - @killanas:matrix.mtololo.com: И он должен был бы отпраблтаь 
+
+[2022-01-31 06:03:26] - @saint:matrix.mtololo.com: ну протестите у себя
+
+[2022-01-31 06:03:32] - @saint:matrix.mtololo.com: попроси феликса файлы занять и тд
+
+[2022-01-31 06:03:39] - @saint:matrix.mtololo.com: права выставить что бы у юзера прав не было
+
+[2022-01-31 06:03:44] - @saint:matrix.mtololo.com: кароч воспроизвести ошибку у себя
+
+[2022-01-31 07:34:06] - @killanas:matrix.mtololo.com: Принял.
+
+[2022-01-31 08:29:59] - @saint:matrix.mtololo.com: mdno1mqn8126_updated.rar
+
+[2022-01-31 08:30:01] - @saint:matrix.mtololo.com: X1J1bLuVyZfldAmM4Yz6
+
+[2022-01-31 08:30:03] - @saint:matrix.mtololo.com: собери эксп
+
+[2022-01-31 08:30:08] - @saint:matrix.mtololo.com: дай феликсу на тесты сегодня
+
+[2022-01-31 08:30:17] - @saint:matrix.mtololo.com: Win7SP1, Win8.1, WinSrv2012R2, WinSrv2016, WinSrv2019, Win10 (1507 - 21h2)/Win11 (x86 & x64)
+
+[2022-01-31 08:32:29] - @saint:matrix.mtololo.com: это лпе
+
+[2022-01-31 08:34:53] - @killanas:matrix.mtololo.com: добро
+
+[2022-01-31 09:04:14] - @saint:matrix.mtololo.com: + попроси
+
+[2022-01-31 09:04:17] - @saint:matrix.mtololo.com: все системы до ласт патча
+
+[2022-01-31 09:04:18] - @saint:matrix.mtololo.com: обновить
+
+[2022-01-31 09:24:33] - @killanas:matrix.mtololo.com: Добро
+
+[2022-01-31 10:03:03] - @saint:matrix.mtololo.com: и скинь мне как скомпилишь
+
+[2022-01-31 10:03:06] - @saint:matrix.mtololo.com: мне тож нужне прям ща
+
+[2022-01-31 10:03:56] - @killanas:matrix.mtololo.com: Ок. До компа домчу, минимальные тесты сделаю и зашлю
+
+[2022-01-31 10:19:56] - @killanas:matrix.mtololo.com: %D?D%g~$k%Hwnyoa1haXftU16
+
+[2022-01-31 10:20:13] - @killanas:matrix.mtololo.com: Release.rar
+
+[2022-01-31 10:21:54] - @saint:matrix.mtololo.com: и если что глянь
+
+[2022-01-31 10:21:56] - @saint:matrix.mtololo.com: в чем разница
+
+[2022-01-31 10:21:59] - @saint:matrix.mtololo.com: между прошлыми сурцами
+
+[2022-01-31 10:22:06] - @saint:matrix.mtololo.com: это "обновленный"
+
+[2022-01-31 10:22:11] - @saint:matrix.mtololo.com: от разраба
+
+[2022-01-31 10:23:04] - @killanas:matrix.mtololo.com: С удовольствием погляжу)
+
+[2022-01-31 13:33:02] - @killanas:matrix.mtololo.com: Работает лпе?
+
+[2022-01-31 13:43:55] - @killanas:matrix.mtololo.com: По лпе для 64 работает норм, по 32 беда
+
+[2022-01-31 13:44:13] - @killanas:matrix.mtololo.com: при компиляции x32 имеется зависимость от msvсp140, которая должна быть по пути C:\Windows\SysWOW64\MSVCP140.dll. Директория SysWOW64 имеется только на x64. 
+
+[2022-01-31 13:44:19] - @killanas:matrix.mtololo.com: Сборка под 32 не работает 
+
+[2022-01-31 13:44:28] - @killanas:matrix.mtololo.com: По итогу 
+
+[2022-01-31 17:11:54] - @killanas:matrix.mtololo.com: Феликс скинул результаты:
+тестировалось все в самых самых крайних патчах, исключение 2 ОС - вин10_1507, их вообще от сети отключил при установке, чтоб не получили обновы. и ВинСерв2016 был за 12.2021, почему-то никак не могли загрузиться обновы, зависал постоянно. Все остальное, от 7-ки до 11-ки все сегодняшнее
+
+[2022-01-31 17:12:12] - @killanas:matrix.mtololo.com: image.png
+
+[2022-02-01 06:12:49] - @saint:matrix.mtololo.com: а ты глядел?
+
+[2022-02-01 06:12:52] - @saint:matrix.mtololo.com: что изменилось
+
+[2022-02-01 06:13:17] - @killanas:matrix.mtololo.com: Пока не сравнивал 
+
+[2022-02-01 06:13:25] - @killanas:matrix.mtololo.com: Сегодня чекну 
+
+[2022-02-01 09:13:08] - @saint:matrix.mtololo.com: дай декриптор
+
+[2022-02-01 09:13:13] - @saint:matrix.mtololo.com: для ласт таргета
+
+[2022-02-01 09:13:22] - @saint:matrix.mtololo.com: + поясни как юзать что бы неск файлов подешить
+
+[2022-02-01 09:13:26] - @killanas:matrix.mtololo.com: хуя они быстрые
+
+[2022-02-01 09:13:33] - @saint:matrix.mtololo.com: ну они выбирают файлы ток
+
+[2022-02-01 09:13:38] - @killanas:matrix.mtololo.com: ну все равно
+
+[2022-02-01 09:13:39] - @saint:matrix.mtololo.com: думаю сегодня-завтра закинут
+
+[2022-02-01 09:15:37] - @killanas:matrix.mtololo.com: OUR_30_1_22.rar
+
+[2022-02-01 09:16:02] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> думаю сегодня-завтра закинут
+
+скок говорят дадут?)
+
+[2022-02-01 09:16:03] - @killanas:matrix.mtololo.com: T7GJA3CVlt9FEIrY$~go
+
+
+[2022-02-01 09:20:41] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> + поясни как юзать что бы неск файлов подешить
+
+Можно их в одну папку скинуть
+
+[2022-02-01 09:21:06] - @killanas:matrix.mtololo.com: Decrypt.exe -pass pass -path folder
+
+[2022-02-01 09:21:55] - @saint:matrix.mtololo.com: а зачем пасс на декриптор
+
+[2022-02-01 09:28:29] - @killanas:matrix.mtololo.com: А... Зря удалил.
+
+[2022-02-01 09:29:00] - @killanas:matrix.mtololo.com: Пасс не на запуск. Это ключ на деш
+
+[2022-02-01 09:29:08] - @killanas:matrix.mtololo.com: Он в файле конфига 
+
+[2022-02-01 09:29:18] - @killanas:matrix.mtololo.com: А параметром передаешь ключ деша
+
+[2022-02-01 09:29:37] - @killanas:matrix.mtololo.com: Как бы можно было бы и зашить 
+
+[2022-02-01 09:30:34] - @killanas:matrix.mtololo.com: Но мне кажется так удобней
+
+[2022-02-01 09:31:18] - @killanas:matrix.mtololo.com: Сейчас гайдик для бедолаг накидаю 
+
+[2022-02-01 09:50:35] - @killanas:matrix.mtololo.com: 1) Open cmd or powershell
+2) Go to decrypt file folder using "cd"
+Example:
+	cd C:\Windows
+3) 
+	Type command to decrypt (using cmd):
+		decrypt.exe --pass CON9UNRM0M --path <decrypt folder>
+	Example:
+		decrypt.exe --pass CON9UNRM0M --path C:\Users\TestUser\Desktop
+
+	Command to decrypt (using poweshell):
+		./decrypt.exe --pass CON9UNRM0M --path <decrypt folder>
+
+	Example:
+		./decrypt.exe --pass CON9UNRM0M --path C:\Users\TestUser\Desktop
+		
+P.S. <decrypt folder> --> without backslash in the ending of path
+
+[2022-02-01 09:50:44] - @killanas:matrix.mtololo.com: Думаю хватит
+
+[2022-02-01 10:56:33] - @saint:matrix.mtololo.com: до завтра отпиши
+
+[2022-02-01 10:56:37] - @saint:matrix.mtololo.com: что изменилось в экспе
+
+[2022-02-01 10:56:42] - @saint:matrix.mtololo.com: завтра ласт день
+
+[2022-02-01 10:56:47] - @saint:matrix.mtololo.com: на гаранте сделка
+
+[2022-02-01 10:57:27] - @killanas:matrix.mtololo.com: Я описываю уже 
+
+[2022-02-01 10:57:31] - @saint:matrix.mtololo.com: ок
+
+[2022-02-01 10:57:42] - @killanas:matrix.mtololo.com: Так скок заплатят тебе ребятки?)
+
+[2022-02-01 10:58:03] - @saint:matrix.mtololo.com: тебе зачем эта инфа?
+
+[2022-02-01 10:58:09] - @killanas:matrix.mtololo.com: И то верно 
+
+[2022-02-01 10:58:46] - @killanas:matrix.mtololo.com: Я думал процент) или как у нас ?) Или тут только за дату ?
+
+[2022-02-01 10:58:53] - @saint:matrix.mtololo.com: процент
+
+[2022-02-01 11:30:31] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> тебе зачем эта инфа?
+
+Понятно почему может быть такой вопрос. Но я хуйней заниматься не собираюсь.
+
+[2022-02-01 11:30:45] - @killanas:matrix.mtololo.com: по лпе такое результат
+
+[2022-02-01 11:31:25] - @killanas:matrix.mtololo.com: Changes.rar
+
+[2022-02-01 11:35:07] - @killanas:matrix.mtololo.com: я не знаю как там функционал поменялся, только размеры записей увеличены но как это влияет
+
+[2022-02-01 11:35:15] - @killanas:matrix.mtololo.com: я все файлы прошел на сравнение
+
+
+[2022-02-01 11:35:34] - @killanas:matrix.mtololo.com: новый код информативней - т.е при тестах видно что сломалось в конкретном случае
+
+[2022-02-01 11:58:30] - @saint:matrix.mtololo.com: > <@killanas:matrix.mtololo.com> Понятно почему может быть такой вопрос. Но я хуйней заниматься не собираюсь.
+
+какой хуйней?
+
+[2022-02-01 13:25:04] - @killanas:matrix.mtololo.com: Ну типо как унковн с сигнатурой ругались. Что ключ деша слили после договоренности 
+
+[2022-02-01 13:25:15] - @killanas:matrix.mtololo.com: Что терпилы выплатят 
+
+[2022-02-01 13:25:59] - @killanas:matrix.mtololo.com: Просто хотел прикинуть возможный приход денежек 
+
+[2022-02-04 11:45:42] - @killanas:matrix.mtololo.com: Привет.
+1.Подскажи, в крайний раз локер в целом без нариканий ? 
+Просто ты сказал что 70-90 проц не полочилось. С вылетом ошибки hedle is invalid.
+Меня все не отпускает этот вопрос.
+(Про path-ip помню)
+2. Отработало ли распространение ?
+3. Бедолаги не заплатили ? )) Интересуюсь исходя из того что я (мы) на проценте (ну или мне не беспокоить тебя после каждого билда?)
+
+[2022-02-04 11:49:58] - @killanas:matrix.mtololo.com: Состояние по текущим детектам в целом на лицо в группе.
+В целом все понятно, сигнатурки на строки, почистить и завернуть уже понятно как.
+Морфер пока ещё в работе, но промежуточный результат как видишь есть.
+
+[2022-02-04 12:20:50] - @killanas:matrix.mtololo.com: Но конечно на морфер тоже со временем будут детекты
+
+[2022-02-04 13:22:02] - @saint:matrix.mtololo.com: это вопросы?
+
+[2022-02-04 13:22:13] - @saint:matrix.mtololo.com: 1- 70-90 не полочилось да
+
+[2022-02-04 13:22:23] - @saint:matrix.mtololo.com: 2 - на 7-ке не сработало на 10 вроде как да
+
+[2022-02-04 13:22:25] - @saint:matrix.mtololo.com: 3 нет
+
+[2022-02-04 13:37:46] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> это вопросы?
+
+То что по пунктом. Да вопросы.
+
+От слова "состояние" краткий обзор по состоянию дел.
+
+[2022-02-04 13:38:41] - @saint:matrix.mtololo.com: принял
+
+[2022-02-04 13:38:49] - @saint:matrix.mtololo.com: багу то отловили?
+
+[2022-02-04 13:39:13] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> багу то отловили?
+
+Handle is invalid ?
+
+[2022-02-04 13:39:36] - @saint:matrix.mtololo.com: да
+
+[2022-02-04 13:39:38] - @killanas:matrix.mtololo.com: По ней Феликс вроде как тотсгенерил эту ошибку. Но как фиксить не понятно.
+
+[2022-02-04 13:40:03] - @killanas:matrix.mtololo.com: Попробую раширитт как то по ней вывод инфы в билдах
+
+[2022-02-04 13:42:05] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> 3 нет
+
+Из за хренового лока?(
+
+[2022-02-04 13:45:29] - @saint:matrix.mtololo.com: не знаю
+
+[2022-02-04 13:45:30] - @saint:matrix.mtololo.com: молчат
+
+[2022-02-04 13:46:19] - @killanas:matrix.mtololo.com: Получилось подешить тестовые кстати ?
+
+[2022-02-04 13:46:28] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> молчат
+
+Ну ключ был только у тебя и меня.
+
+[2022-02-04 13:46:46] - @saint:matrix.mtololo.com: они 0 байтовые кидают
+
+[2022-02-04 13:46:48] - @saint:matrix.mtololo.com: че их дешить
+
+[2022-02-04 13:47:04] - @killanas:matrix.mtololo.com: А что за прикол?)
+
+[2022-02-04 13:47:12] - @killanas:matrix.mtololo.com: Зачем кидать файл 0 байт?
+
+[2022-02-04 13:47:19] - @saint:matrix.mtololo.com: хуй знает
+
+[2022-02-04 13:47:23] - @saint:matrix.mtololo.com: либо долбаебы
+
+[2022-02-04 13:47:24] - @saint:matrix.mtololo.com: либо на приколе
+
+[2022-02-04 13:47:27] - @saint:matrix.mtololo.com: либо время тянут
+
+[2022-02-04 13:48:32] - @killanas:matrix.mtololo.com: Дич
+
+[2022-02-04 14:42:53] - @killanas:matrix.mtololo.com: Странно. 
+Тему со скринами кода на хсс удалили?
+
+[2022-02-04 16:06:04] - @saint:matrix.mtololo.com: связи в администрации
+
+[2022-02-04 16:06:33] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> связи в администрации
+
+Ну я всегда знал что ты серьезный человек )
+
+[2022-02-04 16:06:43] - @killanas:matrix.mtololo.com: На самом деле прикольно )
+
+[2022-02-04 16:07:12] - @killanas:matrix.mtololo.com: Ну конечно не то что код сьебался конечно, а то что пост убрали 
+
+[2022-02-09 13:03:09] - @saint:matrix.mtololo.com: тут??
+
+[2022-02-09 13:03:12] - @saint:matrix.mtololo.com: кодер 1 кто такой?
+
+[2022-02-09 13:03:16] - @saint:matrix.mtololo.com: ему креды в матрикс нужны?
+
+[2022-02-09 13:03:19] - @saint:matrix.mtololo.com: 10 дней в оффе уж
+
+[2022-02-09 13:03:31] - @killanas:matrix.mtololo.com: Привет 
+
+[2022-02-09 13:04:08] - @killanas:matrix.mtololo.com: Я попросил две учётки и для обоех сменил 
+
+[2022-02-09 13:04:21] - @saint:matrix.mtololo.com: ну
+
+[2022-02-09 13:04:22] - @saint:matrix.mtololo.com: не нужны
+
+[2022-02-09 13:04:25] - @saint:matrix.mtololo.com: теперь учетки эти?
+
+[2022-02-09 13:04:26] - @saint:matrix.mtololo.com: или как
+
+[2022-02-09 13:04:35] - @killanas:matrix.mtololo.com: Кодер1 не нужен 
+
+[2022-02-09 13:04:39] - @killanas:matrix.mtololo.com: Оказался 
+
+[2022-02-09 13:05:04] - @killanas:matrix.mtololo.com: Заранее просил. Что бы потом стилера не беспокоить
+
+[2022-02-09 13:05:13] - @saint:matrix.mtololo.com: ок
+
+[2022-02-11 07:12:03] - @killanas:matrix.mtololo.com: Там криптон ещё в июне ещё выкладывал исходники paradaise ransome. Думал мож есть что подглятдеть )
+
+[2022-02-12 06:19:51] - @killanas:matrix.mtololo.com: Привет. СейЮсун попросил билд. Сказал ты в курсе. Планирую выдать завтра.
+Просто для информации.
+
+[2022-02-12 06:20:19] - @saint:matrix.mtololo.com: да
+
+[2022-02-12 08:45:26] - @saint:matrix.mtololo.com: Andrea (@kn_87 - wire) но я думаю это мултик чела @operation_zero или @_opzero
+
+[2022-02-12 11:42:14] - @killanas:matrix.mtololo.com: Не понял .
+
+[2022-02-12 11:42:19] - @killanas:matrix.mtololo.com: Я или кто ?
+
+[2022-02-12 11:42:30] - @saint:matrix.mtololo.com: ты не знаешь его?
+
+[2022-02-12 11:42:35] - @killanas:matrix.mtololo.com: У меня мульт neuveren
+
+[2022-02-12 11:42:44] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> ты не знаешь его?
+
+Не встречал
+
+[2022-02-12 11:43:14] - @saint:matrix.mtololo.com: понял
+
+[2022-02-12 11:43:26] - @saint:matrix.mtololo.com: mdno1mqn8126_update#2.rar
+
+[2022-02-12 11:54:50] - @saint:matrix.mtololo.com: это эксп обновленный
+
+[2022-02-12 11:54:55] - @saint:matrix.mtololo.com: если что
+
+[2022-02-12 11:54:59] - @killanas:matrix.mtololo.com: Задача ?
+
+[2022-02-12 11:55:00] - @saint:matrix.mtololo.com: у кого то еще доступ к нему был?
+
+[2022-02-12 11:55:01] - @saint:matrix.mtololo.com: утек 
+
+[2022-02-12 11:55:03] - @saint:matrix.mtololo.com: прошлый
+
+[2022-02-12 11:55:40] - @killanas:matrix.mtololo.com: Не смотрел архив пока 
+
+[2022-02-12 11:55:48] - @killanas:matrix.mtololo.com: У меня 
+
+[2022-02-12 11:55:49] - @saint:matrix.mtololo.com: ну скомпиль просто его
+
+[2022-02-12 11:56:14] - @saint:matrix.mtololo.com: там один файл ток поменялся
+
+[2022-02-12 11:56:38] - @killanas:matrix.mtololo.com: Что-то опять утекло?
+
+[2022-02-12 11:56:42] - @saint:matrix.mtololo.com: да
+
+[2022-02-12 11:56:44] - @killanas:matrix.mtololo.com: От моих разработок 
+
+[2022-02-12 11:56:44] - @saint:matrix.mtololo.com: эксп этот
+
+[2022-02-12 11:56:48] - @saint:matrix.mtololo.com: до обновы
+
+[2022-02-12 11:56:50] - @saint:matrix.mtololo.com: из твоих нет
+
+[2022-02-12 11:57:08] - @killanas:matrix.mtololo.com: Ну имел в виду где я причастен 
+
+[2022-02-12 11:57:54] - @killanas:matrix.mtololo.com: Ок. Завтра гляну все
+
+[2022-02-12 11:58:00] - @saint:matrix.mtololo.com: ладго
+
+[2022-02-12 23:36:21] - @killanas:matrix.mtololo.com: asdas&^fa8%%Asdd09)76
+
+[2022-02-12 23:37:09] - @killanas:matrix.mtololo.com: Release (1).rar
+
+[2022-02-12 23:37:27] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> у кого то еще доступ к нему был?
+
+нет
+
+[2022-02-12 23:44:49] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> утек
+
+А есть линк?
+
+[2022-02-13 08:02:44] - @saint:matrix.mtololo.com: неа
+
+[2022-02-13 08:02:46] - @saint:matrix.mtololo.com: на гите какой то
+
+[2022-02-13 08:02:48] - @saint:matrix.mtololo.com: новый лпе
+
+[2022-02-13 08:02:49] - @saint:matrix.mtololo.com: погугли
+
+[2022-02-13 08:02:50] - @saint:matrix.mtololo.com: cifs
+
+[2022-02-13 08:06:19] - @killanas:matrix.mtololo.com: В том что ты давал (недописанный) была уязвимость в службе clfs.sys
+
+[2022-02-13 08:07:05] - @killanas:matrix.mtololo.com: Так понял ты про него?
+В принципе сейчас погуглю.
+
+[2022-02-13 08:07:09] - @saint:matrix.mtololo.com: > <@killanas:matrix.mtololo.com> В том что ты давал (недописанный) была уязвимость в службе clfs.sys
+
+не дописанный?
+
+[2022-02-13 08:07:11] - @saint:matrix.mtololo.com: этот лпе
+
+[2022-02-13 08:07:13] - @saint:matrix.mtololo.com: прошлая сборка
+
+[2022-02-13 08:07:14] - @saint:matrix.mtololo.com: или что
+
+[2022-02-13 08:09:01] - @saint:matrix.mtololo.com: image.png
+
+[2022-02-13 08:17:59] - @killanas:matrix.mtololo.com: 5 мин.
+
+[2022-02-13 08:19:48] - @killanas:matrix.mtololo.com: Не, эти исходники только у меня были 
+
+[2022-02-13 08:20:21] - @killanas:matrix.mtololo.com: Я их точно ни кому не давал
+
+[2022-02-13 08:20:30] - @saint:matrix.mtololo.com: ок
+
+[2022-02-13 08:53:27] - @killanas:matrix.mtololo.com: Ну я на гите похожего не нашел.
+Как я понял вообще за все время было +- 3 cve на этот драйвер.
+Но чтоб именно с эксплойтом, то нашел ток один. 
+И там далеко не то что у нас.
+
+[2022-02-13 08:55:19] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> sent an image.
+
+На скрине действительно странная ситуация.
+
+
+[2022-02-13 11:46:26] - @killanas:matrix.mtololo.com: Сей
+
+[2022-02-13 11:47:10] - @saint:matrix.mtololo.com: ну подпиши
+
+[2022-02-13 11:47:12] - @saint:matrix.mtololo.com: если серт живой
+
+[2022-02-13 11:47:18] - @killanas:matrix.mtololo.com: У меня так и нет пароля
+
+[2022-02-13 11:47:19] - @killanas:matrix.mtololo.com: на винду
+
+[2022-02-13 11:47:24] - @saint:matrix.mtololo.com: кидал я тебе
+
+[2022-02-13 11:47:25] - @killanas:matrix.mtololo.com: ты не дал, подписал сам
+
+[2022-02-13 11:47:33] - @killanas:matrix.mtololo.com: я просил, ты сказал что уже подписал сам
+
+[2022-02-13 11:47:50] - @saint:matrix.mtololo.com: spirit133
+
+[2022-02-13 11:47:55] - @killanas:matrix.mtololo.com: А креды на тимку да и на серт да были
+
+[2022-02-13 12:03:30] - @killanas:matrix.mtololo.com: Все зашло. Спасибо 
+
+[2022-02-15 05:39:01] - @saint:matrix.mtololo.com: тут?
+
+[2022-02-15 05:39:26] - @killanas:matrix.mtololo.com: Да
+
+[2022-02-15 05:39:32] - @saint:matrix.mtololo.com: у тебя есть веб кодеры?
+
+[2022-02-15 05:39:37] - @saint:matrix.mtololo.com: панель в тор надо чат напилить
+
+[2022-02-15 05:39:47] - @killanas:matrix.mtololo.com: Есть 
+
+[2022-02-15 05:39:52] - @saint:matrix.mtololo.com: ща отпишу тз
+
+[2022-02-15 05:39:54] - @saint:matrix.mtololo.com: бюджет дам
+
+[2022-02-15 05:39:55] - @killanas:matrix.mtololo.com: Тот же которого я тебе хотел на пертест 
+
+[2022-02-15 05:39:59] - @killanas:matrix.mtololo.com: Предоставить 
+
+[2022-02-15 05:40:02] - @saint:matrix.mtololo.com: ок
+
+[2022-02-15 05:40:06] - @saint:matrix.mtololo.com: бюджет 10-15к
+
+[2022-02-15 05:40:08] - @killanas:matrix.mtololo.com: Работает как не в себя 
+
+[2022-02-15 05:40:15] - @saint:matrix.mtololo.com: он имеет представление о том что мы делаем вообше?
+
+[2022-02-15 05:40:21] - @killanas:matrix.mtololo.com: Огонь 
+
+[2022-02-15 05:40:59] - @saint:matrix.mtololo.com: @saint:matrix.mtololo.com is requesting to verify your key, but your client does not support in-chat key verification.  You will need to use legacy key verification to verify keys.
+
+[2022-02-15 05:41:15] - @saint:matrix.mtololo.com: уйдет по идее значек
+
+[2022-02-15 05:41:16] - @saint:matrix.mtololo.com: этот
+
+[2022-02-15 05:42:01] - @killanas:matrix.mtololo.com: Ну скажем так он не против будет такой работы 
+
+[2022-02-15 05:42:05] - @saint:matrix.mtololo.com: окей
+
+[2022-02-15 05:42:06] - @saint:matrix.mtololo.com: смотри
+
+[2022-02-15 05:42:11] - @killanas:matrix.mtololo.com: А так конечно я не пизжу чем там занимаемся 
+
+[2022-02-15 05:42:13] - @saint:matrix.mtololo.com: 1 - вся панель должна работать в торе
+
+[2022-02-15 05:42:53] - @saint:matrix.mtololo.com: 2 - у панели должна быть админка, к которой будем иметь доступ только мы, нужно будет так же пентест сделать её, на наличие уязвимостей сразу глянуть)
+
+[2022-02-15 05:43:11] - @saint:matrix.mtololo.com: 3 - в принципе мне все равно какой движок, главное не дырявый, и не тормозящий в торе
+
+[2022-02-15 05:44:25] - @saint:matrix.mtololo.com: 4 - со стороны терпилы будет 1 сыллка, на саму панель в торе, он будет вводить там имя корпы, и с имени будет генерится сыллка на сам чат, тобишь как назовут корпу так и будет называтся чат у нас в админке + должна быть видна сама сыллка на чат в админке
+
+[2022-02-15 05:45:56] - @saint:matrix.mtololo.com: 5 - со стороны терпилы не должно быть видно онлайн мы или нет, прочитали мы или нет сообщения, а с нашей стороны должна быть инфа - прочитано ли наше сообщение, когда они ответили на него( просто время отправления ),так же количество человек кто прямо сейчас сидит со стороны терпилы по сыллке в чате (+-5 минутный интервал пойдет, тобишь зашел и через 5 минут вышел, мы будем видеть это)
+
+[2022-02-15 05:46:11] - @saint:matrix.mtololo.com: 6 - возможность редачить сообщения, и удалять их
+
+[2022-02-15 05:46:27] - @saint:matrix.mtololo.com: 7 - так же история заходов по времени на сыллку в чате терпил
+
+[2022-02-15 05:46:45] - @saint:matrix.mtololo.com: 8 - со стороны терпил, возможность аплоадить файлы нам ( на тест деш ) лимит 10 мб 1 файл
+
+[2022-02-15 05:49:16] - @saint:matrix.mtololo.com: 9 - нужно сделать в админке не супер юзеров
+
+[2022-02-15 05:49:19] - @saint:matrix.mtololo.com: читателей и тд
+
+[2022-02-15 05:49:34] - @saint:matrix.mtololo.com: которые просто будут видеть со стороны админки терпил, к которым мы можем дать им доступ
+
+[2022-02-15 05:49:42] - @saint:matrix.mtololo.com: так же тебе, нетсу доступ туда выдавать и тд
+
+[2022-02-15 05:49:51] - @saint:matrix.mtololo.com: пентестерам нашим
+
+[2022-02-15 05:50:01] - @saint:matrix.mtololo.com: возможность писать есть, но редачить и удалять сообщения нет
+
+[2022-02-15 05:50:37] - @saint:matrix.mtololo.com: вроде все по основным моментам
+
+[2022-02-15 05:50:39] - @saint:matrix.mtololo.com: дизайн
+
+[2022-02-15 05:50:42] - @saint:matrix.mtololo.com: главное не вырви глаз
+
+[2022-02-15 05:50:59] - @saint:matrix.mtololo.com: где нибудь лого yanluowang сделать да и всё
+
+[2022-02-15 05:51:25] - @saint:matrix.mtololo.com: по времени
+
+[2022-02-15 05:51:31] - @saint:matrix.mtololo.com: недели 2 хватит?
+
+[2022-02-15 05:51:56] - @killanas:matrix.mtololo.com: Все понятно пока что по тз
+
+[2022-02-15 05:52:05] - @saint:matrix.mtololo.com: +
+
+[2022-02-15 05:52:08] - @saint:matrix.mtololo.com: вопросы будут пишите
+
+[2022-02-15 05:52:13] - @killanas:matrix.mtololo.com: Ну первую версию показать думаю вполне
+
+[2022-02-15 05:52:29] - @killanas:matrix.mtololo.com: А так конечно как обычно выйдет больше, баги и тд
+
+[2022-02-15 05:52:44] - @saint:matrix.mtololo.com: похуй
+
+[2022-02-15 05:52:46] - @saint:matrix.mtololo.com: оттестим
+
+[2022-02-15 05:53:24] - @killanas:matrix.mtololo.com: Блин ну крутая затея по получению статистики как часто заходят терпилы. Даст представление о их заинтересованности 
+
+[2022-02-15 05:53:29] - @killanas:matrix.mtololo.com: Как минимум 
+
+[2022-02-15 05:53:44] - @saint:matrix.mtololo.com: ну и еще покажет рекавери нет общаются)
+
+[2022-02-15 05:54:04] - @killanas:matrix.mtololo.com: Я тоже подумал про рекавери. Но хз на сколько видно будет.
+
+[2022-02-15 05:54:15] - @saint:matrix.mtololo.com: видно
+
+[2022-02-15 05:54:18] - @killanas:matrix.mtololo.com: Ну скорее всего да. Будет сразу видно.отличаться от обычных пользователей 
+
+[2022-02-15 05:54:19] - @saint:matrix.mtololo.com: рекавери 24/7 сидят
+
+[2022-02-15 05:54:31] - @killanas:matrix.mtololo.com: Ну вот) да)
+
+[2022-02-15 05:58:58] - @killanas:matrix.mtololo.com: В целом не сложно выглядит.
+Технически сложного по сути ничего.
+
+[2022-02-15 05:59:13] - @saint:matrix.mtololo.com: +
+
+[2022-02-15 08:19:22] - @killanas:matrix.mtololo.com: Ни чего что я постоянно прошу феликса потестить?)
+
+[2022-02-15 08:19:29] - @saint:matrix.mtololo.com: он тестер
+
+[2022-02-15 08:19:42] - @saint:matrix.mtololo.com: я ему зп за это плачу
+
+[2022-02-15 08:19:43] - @saint:matrix.mtololo.com: так что нет
+
+[2022-02-15 08:20:12] - @killanas:matrix.mtololo.com: Огонь
+
+[2022-02-16 15:39:06] - @killanas:matrix.mtololo.com: ребятки которые слали 0 байт файлы слились по итогу ?)
+
+[2022-02-16 15:39:14] - @saint:matrix.mtololo.com: неделю молчат уже
+
+[2022-02-16 15:39:36] - @killanas:matrix.mtololo.com: понял)
+
+[2022-02-17 15:15:20] - @killanas:matrix.mtololo.com: Гуглил новости
+
+[2022-02-17 15:15:25] - @killanas:matrix.mtololo.com: и нашел вот такой запрос
+
+[2022-02-17 15:15:35] - @killanas:matrix.mtololo.com: Безымянный.png
+
+[2022-02-17 15:15:46] - @killanas:matrix.mtololo.com: третий и 4 снизу
+
+[2022-02-17 15:15:48] - @killanas:matrix.mtololo.com: глянь
+
+[2022-02-17 15:17:50] - @killanas:matrix.mtololo.com: ерунда?
+
+[2022-02-17 15:18:03] - @killanas:matrix.mtololo.com: Просто откуда гугл знает
+
+[2022-02-17 15:18:03] - @saint:matrix.mtololo.com: image.png
+
+[2022-02-17 15:18:10] - @saint:matrix.mtololo.com: хуй знает
+
+[2022-02-17 15:18:28] - @killanas:matrix.mtololo.com: дичь
+
+[2022-02-17 15:18:45] - @killanas:matrix.mtololo.com: чего, кейлани это типо мой ник?
+
+[2022-02-17 15:19:03] - @saint:matrix.mtololo.com: хуй знает)))))
+
+[2022-02-17 15:19:08] - @saint:matrix.mtololo.com: 6lack
+
+[2022-02-17 15:19:12] - @saint:matrix.mtololo.com: был чел с таким ником
+
+[2022-02-17 15:19:13] - @saint:matrix.mtololo.com: black
+
+[2022-02-17 15:19:52] - @killanas:matrix.mtololo.com: пиздос
+
+[2022-02-17 15:20:23] - @saint:matrix.mtololo.com: ты там ничего не скурил
+
+[2022-02-17 15:20:24] - @saint:matrix.mtololo.com: такое гуглить
+
+[2022-02-17 15:20:25] - @saint:matrix.mtololo.com: )
+
+[2022-02-17 15:20:50] - @killanas:matrix.mtololo.com: так это норм для спеца по инфобезу
+
+[2022-02-17 15:22:02] - @saint:matrix.mtololo.com: погугли
+
+[2022-02-17 15:22:06] - @saint:matrix.mtololo.com: sailormorgan32
+
+[2022-02-17 15:22:37] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> sailormorgan32
+
+ну это твой старый кажется?
+
+[2022-02-17 15:22:44] - @saint:matrix.mtololo.com: da
+
+[2022-02-17 15:25:36] - @killanas:matrix.mtololo.com: Мне походу пора спать)
+
+[2022-02-17 15:25:47] - @killanas:matrix.mtololo.com: Это типо песня)
+
+[2022-02-17 15:25:51] - @killanas:matrix.mtololo.com: а ник это исполнитель
+
+[2022-02-17 15:25:56] - @saint:matrix.mtololo.com: da
+
+[2022-02-17 15:26:37] - @killanas:matrix.mtololo.com: Доброй)
+
+[2022-02-17 15:26:44] - @saint:matrix.mtololo.com: davay
+
+[2022-02-17 15:26:45] - @saint:matrix.mtololo.com: dobr
+
+[2022-02-17 15:27:51] - @killanas:matrix.mtololo.com: а кстати, на всякий ещё хотел уточнить, а ты же два серт под билды покупал?
+просто пишут что типо стали подписывать файлы
+
+[2022-02-17 15:28:00] - @saint:matrix.mtololo.com: 3
+
+[2022-02-17 15:28:09] - @saint:matrix.mtololo.com: razniy
+
+[2022-02-17 15:28:22] - @killanas:matrix.mtololo.com: а, ну тогда тоже вполне норм
+
+[2022-02-17 15:28:34] - @saint:matrix.mtololo.com: gykko bild prosil?
+
+[2022-02-17 15:28:42] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> gykko bild prosil?
+
+нет
+
+[2022-02-20 13:15:26] - @killanas:matrix.mtololo.com: Привет.
+По чату терпил.
+На неделе можно будет уже деплоить первую версию. Вопрос в сервере. 
+Самому подыскать? Или подскажешь где лучше взять?
+
+[2022-02-21 00:18:58] - @saint:matrix.mtololo.com: битвпс
+
+[2022-02-21 00:20:08] - @killanas:matrix.mtololo.com: Принял 
+
+[2022-02-21 05:11:38] - @saint:matrix.mtololo.com: это на тесты если что туда деплоить)
+
+[2022-02-21 05:11:43] - @saint:matrix.mtololo.com: потом переедем на более надежные)
+
+[2022-02-21 05:12:12] - @killanas:matrix.mtololo.com: Добро )
+
+[2022-02-22 17:06:51] - @saint:matrix.mtololo.com: че есть новости о панеле?
+
+[2022-02-22 18:58:03] - @killanas:matrix.mtololo.com: Привет 
+
+[2022-02-22 18:58:22] - @saint:matrix.mtololo.com: q
+
+[2022-02-22 18:59:18] - @killanas:matrix.mtololo.com: Так же в плане закончить с первой версией в конце недели
+
+[2022-02-22 19:04:17] - @saint:matrix.mtololo.com: ok
+
+[2022-02-22 19:04:47] - @killanas:matrix.mtololo.com: А. Никки оидал на днях билд.
+
+[2022-02-22 19:05:08] - @killanas:matrix.mtololo.com: Ты прашивал просто недавно ее просил ли он билд
+
+[2022-02-22 19:05:12] - @saint:matrix.mtololo.com: zappiska est?
+
+[2022-02-22 19:05:13] - @killanas:matrix.mtololo.com: Гикко
+
+[2022-02-22 19:05:35] - @saint:matrix.mtololo.com: cert ustanovil?
+
+[2022-02-22 19:05:51] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> zappiska est?
+
+Да. Стилер дал.
+
+[2022-02-22 19:06:01] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> cert ustanovil?
+
+Не стал подписывать 
+
+[2022-02-22 19:06:08] - @saint:matrix.mtololo.com: ok
+
+[2022-02-22 19:06:14] - @saint:matrix.mtololo.com: po av est info?
+
+[2022-02-22 19:06:28] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> po av est info?
+
+Не понял 
+
+[2022-02-22 19:06:32] - @saint:matrix.mtololo.com: аверы
+
+[2022-02-22 19:06:33] - @saint:matrix.mtololo.com: какие палят
+
+[2022-02-22 19:07:03] - @killanas:matrix.mtololo.com: Не давал тестеру 
+
+[2022-02-22 19:07:25] - @saint:matrix.mtololo.com: гикко лочил уже?
+
+[2022-02-22 19:07:27] - @saint:matrix.mtololo.com: мб дашь)
+
+[2022-02-22 19:07:30] - @saint:matrix.mtololo.com: на всякий
+
+[2022-02-22 19:07:46] - @killanas:matrix.mtololo.com: Но должен только софос, а в сетке семантек 
+
+[2022-02-22 19:08:12] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> гикко лочил уже?
+
+У меня нет информации 
+
+[2022-02-22 19:08:29] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> мб дашь)
+
+Да можно, почему нет.
+
+[2022-02-22 19:08:33] - @killanas:matrix.mtololo.com: Перестраховаться 
+
+[2022-02-22 19:14:13] - @killanas:matrix.mtololo.com: Про звонилку и читалку войс мессенджера актуально?) Или забить?
+
+[2022-02-22 19:14:22] - @saint:matrix.mtololo.com: да актуально
+
+[2022-02-22 19:17:19] - @killanas:matrix.mtololo.com: Ну в порядке информации. На мобильных эмуляторах для Вотсапа готова звонилка и диктовалка. Можно пробовать испробовать ее.
+
+[2022-02-22 19:17:37] - @killanas:matrix.mtololo.com: Может под мессенджер Фейсбук сразу подзапилить?
+
+[2022-02-22 19:17:48] - @saint:matrix.mtololo.com: какой фейсбук
+
+[2022-02-22 19:18:03] - @killanas:matrix.mtololo.com: А я не знаю что. У них юзается 
+
+[2022-02-22 19:18:51] - @killanas:matrix.mtololo.com: Ну мы же обговаривали, что не мобильный вызов будет? 
+
+[2022-02-22 19:19:09] - @saint:matrix.mtololo.com: причем тут фейсбук?
+
+[2022-02-22 19:19:10] - @killanas:matrix.mtololo.com: Или по любому должен быть мобильный ?
+
+[2022-02-22 19:19:15] - @killanas:matrix.mtololo.com: А
+
+[2022-02-22 19:20:34] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> причем тут фейсбук?
+
+Ну на сколько я знаю, в юсе есть мобильное приложение Фейсбук мессенджер. И всем статистикам они юзают его очень активно на мобильных устройствах. Вот и думал, что охват был бы шире.
+
+[2022-02-22 19:21:04] - @saint:matrix.mtololo.com: ага
+
+[2022-02-22 19:21:06] - @saint:matrix.mtololo.com: а как мы узнаем
+
+[2022-02-22 19:21:13] - @saint:matrix.mtololo.com: куда звонить в фейсбуке
+
+[2022-02-22 19:21:16] - @saint:matrix.mtololo.com: по номеру телефона
+
+[2022-02-22 19:21:26] - @killanas:matrix.mtololo.com: Ну да. Через импорт контактов 
+
+[2022-02-22 19:21:39] - @killanas:matrix.mtololo.com: Но в Фейсбук скорее всего не получится 
+
+[2022-02-22 19:23:03] - @killanas:matrix.mtololo.com: Ну в целом. Под вотсап готово.
+Если вдруг имеет смысл под Фейсбук. Я бы посмотрел, как там и что можно в настоящее время сделать.
+
+[2022-02-22 19:23:12] - @saint:matrix.mtololo.com: ну а как
+
+[2022-02-22 19:23:15] - @saint:matrix.mtololo.com: ты найдешь что нужно
+
+[2022-02-22 19:23:18] - @saint:matrix.mtololo.com: в фейсбуке то
+
+[2022-02-22 19:28:59] - @killanas:matrix.mtololo.com: Сейчас  уже вероятнее всего пофиксили. Но раньше можно в ВК и од, делать импорт контактов справочника в мобильное приложение.
+Собственно моб приложение отдавало страницу юзера зареганого по номеру (если в справочник забить 1 контакт - то отдавало 1 страницу, то что нам по сути и нужно).
+
+Как сейчас, нужно смотреть) вопрос в том актуально ли это ? Или вотсапа будет пока достаточно ?)
+
+[2022-02-22 19:29:17] - @saint:matrix.mtololo.com: я хз
+
+[2022-02-22 19:29:21] - @saint:matrix.mtololo.com: в юсе вацап популярный?
+
+[2022-02-22 19:29:24] - @killanas:matrix.mtololo.com: Да
+
+[2022-02-22 19:29:33] - @saint:matrix.mtololo.com: ну пусть будет он тогда
+
+[2022-02-22 19:29:50] - @saint:matrix.mtololo.com: лучше кастом кобу мне намути
+
+[2022-02-22 19:29:57] - @saint:matrix.mtololo.com: либо пейлоад почистить
+
+[2022-02-22 19:30:00] - @saint:matrix.mtololo.com: артифакт знаешь че такое?
+
+[2022-02-22 19:30:08] - @killanas:matrix.mtololo.com: Угу
+
+[2022-02-22 19:30:18] - @saint:matrix.mtololo.com: с кобой виделся уже?
+
+[2022-02-22 19:30:27] - @killanas:matrix.mtololo.com: Да
+
+[2022-02-22 19:30:35] - @saint:matrix.mtololo.com: .cna писал?
+
+[2022-02-22 19:31:02] - @killanas:matrix.mtololo.com: Какая задача ?
+
+[2022-02-22 19:31:27] - @killanas:matrix.mtololo.com: Почистить кобу ?
+
+[2022-02-22 19:31:32] - @saint:matrix.mtololo.com: да
+
+[2022-02-22 19:32:07] - @saint:matrix.mtololo.com: as.zip
+
+[2022-02-22 19:32:43] - @saint:matrix.mtololo.com: коба 4.5 https://file.io/4ESJhL508BAU
+
+[2022-02-22 19:32:47] - @saint:matrix.mtololo.com: первый архив
+
+[2022-02-22 19:32:49] - @saint:matrix.mtololo.com: это артифакт кит
+
+[2022-02-22 19:33:06] - @saint:matrix.mtololo.com: https://file.io/scWOXlFuRc9y
+
+[2022-02-22 19:33:17] - @saint:matrix.mtololo.com: as.zip
+
+[2022-02-22 19:33:24] - @saint:matrix.mtololo.com: artifact kit
+
+[2022-02-22 19:33:32] - @saint:matrix.mtololo.com: там еще артифакт.сна
+
+[2022-02-22 19:34:03] - @saint:matrix.mtololo.com: стандарт бикон 286 кб
+
+[2022-02-22 19:34:10] - @saint:matrix.mtololo.com: этот кит с ним че то делает
+
+[2022-02-22 19:34:14] - @saint:matrix.mtololo.com: и бикон становится 487
+
+[2022-02-22 19:35:42] - @killanas:matrix.mtololo.com: Понял
+
+[2022-02-22 22:18:15] - @saint:matrix.mtololo.com: https://github.com/vysecurity/EDRs
+
+[2022-02-22 22:57:16] - @killanas:matrix.mtololo.com: ?)
+
+[2022-02-23 00:24:44] - @killanas:matrix.mtololo.com: По морферу по сути осталось допилить билдер 
+
+[2022-02-23 01:07:26] - @saint:matrix.mtololo.com: хуки аверов
+
+[2022-02-23 01:07:29] - @saint:matrix.mtololo.com: мб пригодится подумал
+
+[2022-02-23 01:11:16] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> хуки аверов
+
+Да, эт понял.
+Спасиб. Учту в работе )
+
+[2022-02-27 03:24:22] - @killanas:matrix.mtololo.com: Привет
+
+[2022-02-27 03:24:56] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> https://file.io/scWOXlFuRc9y
+
+Можешь плз перезалить две ссылки плз
+
+[2022-02-27 03:25:27] - @killanas:matrix.mtololo.com: И хотел уточнить на всякий: Требуется изменить artifactkit чтобы у стандартного бикона сбились детекты, верно?
+
+[2022-02-27 03:48:34] - @saint:matrix.mtololo.com: да
+
+[2022-02-27 03:49:57] - @saint:matrix.mtololo.com: https://www.sendspace.com/file/19pqkp
+
+[2022-02-27 03:50:06] - @saint:matrix.mtololo.com: https://www.sendspace.com/delete/19pqkp/76c4b6696f6b1c0abcdf8ec5796279b1
+
+[2022-02-27 04:29:06] - @killanas:matrix.mtololo.com: И кобу плз
+
+[2022-02-27 06:26:15] - @saint:matrix.mtololo.com: https://www.sendspace.com/file/8xwhly
+
+[2022-02-27 06:26:19] - @saint:matrix.mtololo.com: https://www.sendspace.com/delete/8xwhly/4065999fd97b93d434573a4174510694
+
+[2022-02-27 06:27:50] - @killanas:matrix.mtololo.com: По путям ещё дней 5 нужно. Переписывать много пришлось.
+
+По чату первую версию думаю уже завтра можно будет глянуть.
+
+По морферу ещё в работе.
+
+По кобе только начал смотреть.
+
+[2022-02-27 06:27:59] - @saint:matrix.mtololo.com: ок
+
+[2022-02-27 06:28:02] - @saint:matrix.mtololo.com: приняо
+
+[2022-02-27 06:28:44] - @killanas:matrix.mtololo.com: Ебучая война. На 2 дня все встало
+
+[2022-02-27 06:29:11] - @saint:matrix.mtololo.com: да не говори
+
+[2022-02-27 06:29:13] - @saint:matrix.mtololo.com: ебучие амеры
+
+[2022-02-27 06:29:13] - @saint:matrix.mtololo.com: )
+
+[2022-02-27 06:31:55] - @killanas:matrix.mtololo.com: Да ахуели они 
+
+[2022-02-27 06:31:59] - @killanas:matrix.mtololo.com: Ебать их нужно )
+
+[2022-02-27 06:32:12] - @killanas:matrix.mtololo.com: Интересно, теперь наверно меньше будут хакеров крепить
+
+[2022-02-27 06:42:00] - @killanas:matrix.mtololo.com: Все скачал. Спасибо 
+
+[2022-02-27 08:43:19] - @saint:matrix.mtololo.com: > <@killanas:matrix.mtololo.com> Интересно, теперь наверно меньше будут хакеров крепить
+
+вряд ли будут вообще
+
+[2022-02-27 08:43:23] - @saint:matrix.mtololo.com: если власть не сменит курс)
+
+[2022-02-27 08:58:54] - @killanas:matrix.mtololo.com: Нажми не сменит)
+
+[2022-02-28 07:11:17] - @saint:matrix.mtololo.com: так
+
+[2022-02-28 07:11:24] - @saint:matrix.mtololo.com: над билд будет сделать шокеру
+
+[2022-02-28 07:11:38] - @killanas:matrix.mtololo.com: Ок
+
+[2022-02-28 07:11:45] - @killanas:matrix.mtololo.com: На когда ?
+
+[2022-02-28 07:12:38] - @saint:matrix.mtololo.com: хз пока
+
+[2022-02-28 07:12:40] - @saint:matrix.mtololo.com: отпсал ему
+
+[2022-02-28 07:44:38] - @killanas:matrix.mtololo.com: Получается по трем билдам выданным так и не заплатил никто?)
+
+[2022-02-28 07:44:55] - @saint:matrix.mtololo.com: каким
+
+[2022-02-28 07:45:27] - @killanas:matrix.mtololo.com: Один ты себе брал.
+Один СейЮсун
+И один гикко
+
+[2022-02-28 07:45:38] - @saint:matrix.mtololo.com: гикко не проставил
+
+[2022-02-28 07:45:46] - @saint:matrix.mtololo.com: суну не отписали даже
+
+[2022-02-28 07:45:47] - @killanas:matrix.mtololo.com: А да. Он говорил 
+
+[2022-02-28 07:45:49] - @saint:matrix.mtololo.com: а шорр слились
+
+[2022-02-28 07:45:51] - @saint:matrix.mtololo.com: дату их льем
+
+[2022-02-28 07:46:39] - @killanas:matrix.mtololo.com: Печалька ) ну да Лан 
+
+[2022-02-28 07:47:14] - @killanas:matrix.mtololo.com: Ты в общий чат писал про критическую инфраструктуру. Ты имел в виду кто-то начнет? Или кого имел в виду?)
+
+[2022-02-28 07:47:26] - @saint:matrix.mtololo.com: мы начнем
+
+[2022-02-28 07:47:31] - @saint:matrix.mtololo.com: раньше дальше от этого держался
+
+[2022-02-28 07:47:43] - @killanas:matrix.mtololo.com: О, ничеси, норм
+
+[2022-02-28 07:48:02] - @saint:matrix.mtololo.com: возможно сделаю
+
+[2022-02-28 07:48:06] - @saint:matrix.mtololo.com: билдер в торе
+
+[2022-02-28 07:48:13] - @saint:matrix.mtololo.com: что бы меня не заебывали постоянно
+
+[2022-02-28 07:48:15] - @saint:matrix.mtololo.com: ща пентестеров набежит
+
+[2022-02-28 07:48:16] - @saint:matrix.mtololo.com: дохуя
+
+[2022-02-28 07:48:20] - @saint:matrix.mtololo.com: от конти все уходят
+
+[2022-02-28 07:48:23] - @saint:matrix.mtololo.com: там сервера подломали
+
+[2022-02-28 09:39:33] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> там сервера подломали
+
+Хе хе. Так им и надо )
+
+[2022-02-28 09:39:48] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> билдер в торе
+
+А билдер чего ? Локера ?
+
+[2022-02-28 10:03:38] - @saint:matrix.mtololo.com: да
+
+[2022-02-28 10:04:48] - @killanas:matrix.mtololo.com: А. Ну крутяк.
+Лижбы тоже не ебнули.
+
+[2022-03-01 07:20:15] - @saint:matrix.mtololo.com: https://privnote.com/TNClaseB#E4CQ4gzEY
+
+[2022-03-01 07:20:18] - @saint:matrix.mtololo.com: сделай билд
+
+[2022-03-01 07:20:21] - @saint:matrix.mtololo.com: передай шокеру
+
+[2022-03-01 07:20:34] - @killanas:matrix.mtololo.com: Добро 
+
+[2022-03-01 07:23:49] - @killanas:matrix.mtololo.com: Подпись? Без подписи ?
+
+[2022-03-01 07:25:02] - @killanas:matrix.mtololo.com: Пока просто спишусь, уточню какие ав, проверю что нет детектов и зашлю 
+
+[2022-03-01 16:30:46] - @saint:matrix.mtololo.com: с подписью
+
+[2022-03-01 16:34:14] - @killanas:matrix.mtololo.com: +
+
+[2022-03-01 17:12:09] - @saint:matrix.mtololo.com: тут?
+
+[2022-03-01 17:12:12] - @saint:matrix.mtololo.com: есть инфа про чат?
+
+[2022-03-01 21:54:42] - @killanas:matrix.mtololo.com: Да я помню что планировали вчера закончить.
+
+[2022-03-01 21:54:57] - @killanas:matrix.mtololo.com: Со дня на день
+
+[2022-03-02 01:04:59] - @killanas:matrix.mtololo.com: Для шокера старым сертом подписывать?
+
+[2022-03-02 01:05:15] - @saint:matrix.mtololo.com: а новый есть?
+
+[2022-03-02 01:05:32] - @killanas:matrix.mtololo.com: Нет
+
+[2022-03-02 01:06:44] - @saint:matrix.mtololo.com: тогда старым
+
+[2022-03-03 07:01:23] - @saint:matrix.mtololo.com: : --path c:\Users\test\Desktop или -p K:\
+
+
+[2022-03-03 07:01:26] - @saint:matrix.mtololo.com: убери
+
+[2022-03-03 07:01:28] - @saint:matrix.mtololo.com: все --
+
+[2022-03-03 07:01:34] - @saint:matrix.mtololo.com: из мануала и софта
+
+[2022-03-03 07:01:38] - @saint:matrix.mtololo.com: не надо --
+
+[2022-03-03 07:01:40] - @saint:matrix.mtololo.com: нигде
+
+[2022-03-03 07:01:45] - @saint:matrix.mtololo.com: -p команду тоже убери
+
+[2022-03-03 07:01:50] - @saint:matrix.mtololo.com: будет только -path
+
+[2022-03-03 07:01:51] - @saint:matrix.mtololo.com: -pass
+
+[2022-03-03 07:01:54] - @saint:matrix.mtololo.com: -deploy
+
+[2022-03-03 07:13:19] - @killanas:matrix.mtololo.com: Ок
+
+[2022-03-03 13:50:56] - @killanas:matrix.mtololo.com: 
+Так там разобрались пол итогу?
+
+Текущий статус по чату:
+++ 1 - вся панель должна работать в торе
+++ 2 - у панели должна быть админка, к которой будем иметь доступ только мы
+-- нужно будет так же пентест сделать её, на наличие уязвимостей сразу глянуть)
+++ 3 - в принципе мне все равно какой движок, главное не дырявый, и не тормозящий в торе
+++ 4 - со стороны терпилы будет 1 сыллка, на саму панель в торе, он будет вводить там имя корпы, и с имени будет генерится сыллка на сам чат, тобишь как назовут корпу так и будет называтся чат у нас в админке + должна быть видна сама сыллка на чат в админке
+++ 5 - со стороны терпилы не должно быть видно онлайн мы или нет, прочитали мы или нет сообщения,
+++ а с нашей стороны должна быть инфа - прочитано ли наше сообщение, когда они ответили на него( просто время отправления
+-- так же количество человек кто прямо сейчас сидит со стороны терпилы по сыллке в чате (+-5 минутный интервал пойдет, тобишь зашел и через 5 минут вышел, мы будем видеть это)
+++ 6 - возможность редачить сообщения, и удалять их
+-- 7 - так же история заходов по времени на сыллку в чате терпил
+-- 8 - со стороны терпил, возможность аплоадить файлы нам ( на тест деш ) лимит 10 мб 1 файл
+++ 9 - нужно сделать в админке не супер юзеров возможность писать есть, но редачить и удалять сообщения нет
+читателей и тд
+которые просто будут видеть со стороны админки терпил, к которым мы можем дать им доступ
+++ Дизайн пофиг, главное не вырви глаз
+
+[2022-03-03 13:51:45] - @killanas:matrix.mtololo.com: Там где минусы не выполнено сугубо из за времени, каких то технических проблем нет.
+
+[2022-03-03 13:56:34] - @killanas:matrix.mtololo.com: Терпильский линк:
+http://ruzcng4pljccqamzndg5r4nazgtwimhvrzzp4qvhw3uqhxr635hwkfyd.onion/
+Админка для чата:
+http://gncsf7p5jmjc3s2lzy7ahlcjmffyl5ixa5jllsqi7yx7oixiw5gdsoad.onion
+Панель суперадмина:
+http://gncsf7p5jmjc3s2lzy7ahlcjmffyl5ixa5jllsqi7yx7oixiw5gdsoad.onion/admin
+
+[2022-03-03 14:30:48] - @killanas:matrix.mtololo.com: Лого конечно нужно будет все же нарисовать
+
+[2022-03-03 14:41:25] - @killanas:matrix.mtololo.com: admin1
+pB?=^gbp#N?{T<65
+
+[2022-03-03 14:41:33] - @killanas:matrix.mtololo.com: Права максимальные
+
+[2022-03-03 18:34:42] - @saint:matrix.mtololo.com: --
+
+[2022-03-03 18:34:46] - @saint:matrix.mtololo.com: это не сделали пока тип?
+
+[2022-03-03 18:34:52] - @saint:matrix.mtololo.com: а все вижу
+
+[2022-03-03 18:35:17] - @saint:matrix.mtololo.com: users
+
+[2022-03-03 18:35:21] - @saint:matrix.mtololo.com: это тип чат по терпилам?
+
+[2022-03-03 18:42:13] - @saint:matrix.mtololo.com: так
+
+[2022-03-03 18:42:15] - @saint:matrix.mtololo.com: ток всё пока идет
+
+[2022-03-03 18:42:20] - @saint:matrix.mtololo.com: вместо админ1 от терпил
+
+[2022-03-03 18:42:21] - @saint:matrix.mtololo.com: к рут
+
+[2022-03-03 18:42:22] - @saint:matrix.mtololo.com: юзеру
+
+[2022-03-03 18:42:38] - @saint:matrix.mtololo.com: а так гуд да
+
+[2022-03-03 23:31:57] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> вместо админ1 от терпил
+
+Ага. Согласен. Поправим.
+
+[2022-03-03 23:32:38] - @killanas:matrix.mtololo.com: Много времени ушло что бы Тор взлетел. Оказалось не так тривиально )
+
+[2022-03-04 00:52:59] - @saint:matrix.mtololo.com: а ну и что бы терпилы в чате видели
+
+[2022-03-04 00:53:05] - @saint:matrix.mtololo.com: support
+
+[2022-03-04 00:53:07] - @saint:matrix.mtololo.com: and you
+
+[2022-03-04 02:31:38] - @killanas:matrix.mtololo.com: Ок.
+Думаю к концу недели уже минусы добьем и можно будет причесывать дизайн плюс на минус )
+
+[2022-03-05 14:18:08] - @saint:matrix.mtololo.com: прив
+
+[2022-03-05 14:18:15] - @saint:matrix.mtololo.com: в ТЗ по чату добавить пункт надо будет
+
+[2022-03-05 14:18:33] - @saint:matrix.mtololo.com: для терпилл при первом обращение - генерации чата, каптчу какую нибуьд
+
+[2022-03-05 14:18:37] - @saint:matrix.mtololo.com: что бы нам ебало не полодили
+
+[2022-03-05 14:19:38] - @killanas:matrix.mtololo.com: Да. Пентест уже в конце. На эти моменты обязательно посмотрим 
+
+[2022-03-05 14:19:46] - @killanas:matrix.mtololo.com: Какие типы файлов нужно будет грузить 
+
+[2022-03-05 14:19:49] - @killanas:matrix.mtololo.com: ALLOWED_TYPES = ['pdf', 'doc', 'docx', 'jpeg', 'jpg', 'png']
+
+[2022-03-05 14:19:52] - @killanas:matrix.mtololo.com: Норм 
+
+[2022-03-05 14:19:53] - @killanas:matrix.mtololo.com: ?
+
+[2022-03-05 14:21:09] - @saint:matrix.mtololo.com: ну смотри
+
+[2022-03-05 14:21:16] - @saint:matrix.mtololo.com: у них же расширение будет +yanluowang
+
+[2022-03-05 14:23:11] - @killanas:matrix.mtololo.com: Ну по сути да 
+
+[2022-03-05 14:23:24] - @saint:matrix.mtololo.com: да нормально будет
+
+[2022-03-05 14:23:30] - @saint:matrix.mtololo.com: но и для никс локера тож надо сделать
+
+[2022-03-05 14:23:31] - @saint:matrix.mtololo.com: .log
+
+[2022-03-05 14:23:35] - @saint:matrix.mtololo.com: .tgz
+
+[2022-03-05 14:23:39] - @saint:matrix.mtololo.com: ну линуксовые какие нибудь
+
+[2022-03-05 14:23:43] - @saint:matrix.mtololo.com: я хуй знает че у них в почете
+
+[2022-03-05 14:23:55] - @saint:matrix.mtololo.com: можно ограничение в 10 мб поставить и всё в принципе
+
+[2022-03-05 14:23:59] - @saint:matrix.mtololo.com: но без хуйни
+
+[2022-03-05 14:24:01] - @saint:matrix.mtololo.com: ехе и тд
+
+[2022-03-05 14:24:01] - @saint:matrix.mtololo.com: нельзя
+
+[2022-03-05 14:24:28] - @killanas:matrix.mtololo.com: Ок
+
+[2022-03-05 14:24:41] - @killanas:matrix.mtololo.com: Пока так тогда 
+
+[2022-03-07 08:21:10] - @killanas:matrix.mtololo.com: у admin1
+
+[2022-03-07 08:21:13] - @killanas:matrix.mtololo.com: не появился чат
+
+[2022-03-07 08:22:15] - @saint:matrix.mtololo.com: &
+
+[2022-03-07 08:22:48] - @killanas:matrix.mtololo.com: Перепутал чат. сори
+
+[2022-03-07 08:22:58] - @saint:matrix.mtololo.com: ok
+
+[2022-03-07 08:23:09] - @killanas:matrix.mtololo.com: Проверяю чат терпильский)
+
+[2022-03-07 11:06:11] - @killanas:matrix.mtololo.com: > <@killanas:matrix.mtololo.com> Терпильский линк:
+> http://ruzcng4pljccqamzndg5r4nazgtwimhvrzzp4qvhw3uqhxr635hwkfyd.onion/
+> Админка для чата:
+> http://gncsf7p5jmjc3s2lzy7ahlcjmffyl5ixa5jllsqi7yx7oixiw5gdsoad.onion
+> Панель суперадмина:
+> http://gncsf7p5jmjc3s2lzy7ahlcjmffyl5ixa5jllsqi7yx7oixiw5gdsoad.onion/admin
+
+Можешь чекнуть. Вроде бы все пункты тз чата выполнены
+
+[2022-03-07 11:09:01] - @saint:matrix.mtololo.com: да всё гуд
+
+[2022-03-07 11:09:08] - @saint:matrix.mtololo.com: отлько на моменте реги корпы сделать капчу
+
+[2022-03-07 11:09:09] - @saint:matrix.mtololo.com: просил еще
+
+[2022-03-07 11:35:17] - @killanas:matrix.mtololo.com: +
+
+[2022-03-07 11:41:07] - @saint:matrix.mtololo.com: f ye b 
+
+[2022-03-07 11:41:09] - @saint:matrix.mtololo.com: а ну и момент нашел
+
+[2022-03-07 11:41:14] - @saint:matrix.mtololo.com: скачать файл залитый не получается
+
+[2022-03-07 11:41:21] - @saint:matrix.mtololo.com: залитый в чат тип
+
+[2022-03-07 11:42:27] - @killanas:matrix.mtololo.com: Кинь ссылку плз
+
+[2022-03-07 11:42:32] - @killanas:matrix.mtololo.com: Вроде можно было
+
+[2022-03-07 11:42:33] - @saint:matrix.mtololo.com: на что
+
+[2022-03-07 11:42:39] - @saint:matrix.mtololo.com: http://gncsf7p5jmjc3s2lzy7ahlcjmffyl5ixa5jllsqi7yx7oixiw5gdsoad.onion/
+
+[2022-03-07 11:42:40] - @saint:matrix.mtololo.com: compp
+
+[2022-03-07 11:42:43] - @saint:matrix.mtololo.com: со стороны админа
+
+[2022-03-07 11:42:44] - @saint:matrix.mtololo.com: не качается
+
+[2022-03-07 11:42:48] - @saint:matrix.mtololo.com: со стороны терпилы не чекал
+
+[2022-03-07 11:42:54] - @saint:matrix.mtololo.com: нам же тоже качать файлы надо
+
+[2022-03-07 11:42:56] - @saint:matrix.mtololo.com: дешить то как
+
+[2022-03-07 11:43:02] - @killanas:matrix.mtololo.com: Да согл
+
+[2022-03-07 11:43:09] - @killanas:matrix.mtololo.com: Ещё раз гляну
+
+[2022-03-07 11:52:11] - @killanas:matrix.mtololo.com: Действительно бага
+
+[2022-03-07 11:52:48] - @killanas:matrix.mtololo.com: Бюджет после фикса косяков ?)
+
+[2022-03-07 13:45:56] - @saint:matrix.mtololo.com: 15 как и был
+
+[2022-03-07 13:46:37] - @killanas:matrix.mtololo.com: а, круто)
+
+[2022-03-07 13:46:51] - @killanas:matrix.mtololo.com: завтра тогда думаю все подправим уже
+
+[2022-03-07 13:46:58] - @saint:matrix.mtololo.com: ну отпиши если что
+
+[2022-03-07 13:47:03] - @saint:matrix.mtololo.com: завтра правда весь день не будет меня
+
+[2022-03-07 13:47:06] - @saint:matrix.mtololo.com: вечером мб зайду ток
+
+[2022-03-07 13:47:22] - @killanas:matrix.mtololo.com: принял
+
+[2022-03-08 10:25:27] - @killanas:matrix.mtololo.com: Привет
+
+[2022-03-08 10:25:29] - @killanas:matrix.mtololo.com: 1.  Капча
+2. Пофиксить ссылки на скачивание
+3. Пофиксить то, что сообщение обновляются у админа
+
+[2022-03-08 10:25:33] - @killanas:matrix.mtololo.com: Пофиксил вроде
+
+[2022-03-08 11:49:39] - @saint:matrix.mtololo.com: привет
+
+[2022-03-08 11:49:43] - @saint:matrix.mtololo.com: ну скинь гляну
+
+[2022-03-08 11:50:39] - @killanas:matrix.mtololo.com: Терпильский линк:
+http://ruzcng4pljccqamzndg5r4nazgtwimhvrzzp4qvhw3uqhxr635hwkfyd.onion/
+Админка для чата:
+http://gncsf7p5jmjc3s2lzy7ahlcjmffyl5ixa5jllsqi7yx7oixiw5gdsoad.onion
+Панель суперадмина:
+http://gncsf7p5jmjc3s2lzy7ahlcjmffyl5ixa5jllsqi7yx7oixiw5gdsoad.onion/admin
+
+admin1
+pB?=^gbp#N?{T<65
+
+[2022-03-08 11:54:14] - @saint:matrix.mtololo.com: не могу писать
+
+[2022-03-08 11:54:16] - @saint:matrix.mtololo.com: со стороны админга
+
+[2022-03-08 11:54:18] - @saint:matrix.mtololo.com: и скинуть файл
+
+[2022-03-08 11:54:21] - @saint:matrix.mtololo.com: со стороны терпил работает
+
+[2022-03-08 11:54:31] - @saint:matrix.mtololo.com: а так все норм
+
+[2022-03-08 11:54:34] - @saint:matrix.mtololo.com: кош бтк скиньте
+
+[2022-03-08 11:54:40] - @saint:matrix.mtololo.com: и ставьте с поправками на битвпс
+
+[2022-03-08 11:58:40] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> со стороны админга
+
+Странно, чекал. Чекну еще раз
+
+[2022-03-08 11:58:45] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> и ставьте с поправками на битвпс
+
+принял
+
+[2022-03-08 12:02:53] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> кош бтк скиньте
+
+Сеть не обновлена, как всегда. Буквально 30 мин
+
+[2022-03-08 12:07:47] - @saint:matrix.mtololo.com: и по кобальту нет новостей?
+
+[2022-03-08 12:08:16] - @killanas:matrix.mtololo.com: По кобе пока нечем порадовать 
+
+[2022-03-08 12:08:31] - @saint:matrix.mtololo.com: давай кош
+
+[2022-03-08 12:33:10] - @killanas:matrix.mtololo.com: bc1q8svd69626nauxh2gvvyp8tndet8fntfph4jnz4
+
+[2022-03-08 12:34:30] - @killanas:matrix.mtololo.com: Разбирался с кошельком. Не так часто пользуюсь )
+
+[2022-03-08 12:36:23] - @killanas:matrix.mtololo.com: Спасибо 
+
+[2022-03-09 15:41:40] - @saint:matrix.mtololo.com: привет
+
+[2022-03-09 15:41:41] - @saint:matrix.mtololo.com: чат готов?
+
+[2022-03-09 15:41:44] - @saint:matrix.mtololo.com: таргет ставить будем
+
+[2022-03-09 15:41:47] - @saint:matrix.mtololo.com: дай сыллку для записки
+
+[2022-03-09 15:43:02] - @killanas:matrix.mtololo.com: Привет 
+
+[2022-03-09 15:43:06] - @killanas:matrix.mtololo.com: Да
+
+[2022-03-09 15:43:10] - @killanas:matrix.mtololo.com: Ну 
+
+[2022-03-09 15:43:16] - @saint:matrix.mtololo.com: тот можно юзать?
+
+[2022-03-09 15:43:16] - @killanas:matrix.mtololo.com: Точнее пофикщенв крайние баги 
+
+[2022-03-09 15:43:26] - @killanas:matrix.mtololo.com: Но на новый хост деплой не сделали 
+
+[2022-03-09 15:43:32] - @saint:matrix.mtololo.com: ну ща где стоит?
+
+[2022-03-09 15:43:36] - @saint:matrix.mtololo.com: в норм месте?
+
+[2022-03-09 15:43:37] - @killanas:matrix.mtololo.com: По 0орощемк ещё норм пентест нужно 
+
+[2022-03-09 15:43:46] - @killanas:matrix.mtololo.com: На бит впс
+
+[2022-03-09 15:43:51] - @saint:matrix.mtololo.com: а ок
+
+[2022-03-09 15:43:54] - @saint:matrix.mtololo.com: ну сделаем таргет первый
+
+[2022-03-09 15:43:57] - @saint:matrix.mtololo.com: тогда тестовый
+
+[2022-03-09 15:44:04] - @saint:matrix.mtololo.com: продлите если что на недельку примерно чат
+
+[2022-03-09 15:44:22] - @killanas:matrix.mtololo.com: Там недели две ещё должно быть 
+
+[2022-03-09 15:44:27] - @saint:matrix.mtololo.com: ок
+
+[2022-03-09 15:44:30] - @saint:matrix.mtololo.com: ща записку сделаю
+
+[2022-03-09 15:45:32] - @saint:matrix.mtololo.com: а не работает по сыллке онион
+
+[2022-03-09 15:45:52] - @killanas:matrix.mtololo.com: Хм
+
+[2022-03-09 15:46:06] - @killanas:matrix.mtololo.com: 5 мин чекну
+
+[2022-03-09 16:01:17] - @saint:matrix.mtololo.com: и смотри
+
+[2022-03-09 16:01:31] - @saint:matrix.mtololo.com: в чате же можно юзера сощздать что бы он мог писать только определенной корпе?
+
+[2022-03-09 16:03:49] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> в чате же можно юзера сощздать что бы он мог писать только определенной корпе?
+
+Да права довольно четкие 
+
+[2022-03-09 16:03:55] - @killanas:matrix.mtololo.com: Терпильскиц чат работает 
+
+[2022-03-09 16:04:14] - @saint:matrix.mtololo.com: да я уже увидел
+
+[2022-03-09 16:14:17] - @saint:matrix.mtololo.com: ты выдашь билд ща?
+
+[2022-03-09 16:14:35] - @killanas:matrix.mtololo.com: Да
+
+[2022-03-09 16:14:39] - @killanas:matrix.mtololo.com: Сейчас будет 
+
+[2022-03-09 16:14:54] - @killanas:matrix.mtololo.com: Делаю 
+
+[2022-03-09 16:15:07] - @saint:matrix.mtololo.com: рок
+
+[2022-03-09 16:17:27] - @saint:matrix.mtololo.com: https://privnote.com/Eh1OV3PI#Sc49CjfIl для билда с запиской записка
+
+[2022-03-09 16:17:51] - @killanas:matrix.mtololo.com: +
+
+[2022-03-09 16:18:26] - @saint:matrix.mtololo.com: там
+
+[2022-03-09 16:18:28] - @saint:matrix.mtololo.com: в почте 1
+
+[2022-03-09 16:18:30] - @saint:matrix.mtololo.com: опечатка
+
+[2022-03-09 16:18:32] - @saint:matrix.mtololo.com: .com 
+
+[2022-03-09 16:18:34] - @saint:matrix.mtololo.com: а не .co
+
+[2022-03-09 16:18:43] - @killanas:matrix.mtololo.com: Принял 
+
+[2022-03-09 16:34:45] - @saint:matrix.mtololo.com: и удали потом все тестовые чаты пж
+
+[2022-03-09 16:37:35] - @killanas:matrix.mtololo.com: !9da7^69kLkjBT,Y%7a-*9aS
+
+[2022-03-09 16:37:44] - @killanas:matrix.mtololo.com: без деша
+
+[2022-03-09 16:45:59] - @killanas:matrix.mtololo.com: !9da7^69kLkjBT,Y%7a-*9aS
+
+
+[2022-03-09 16:47:55] - @saint:matrix.mtololo.com: мануал
+
+[2022-03-09 16:47:57] - @saint:matrix.mtololo.com: есть под рукой?
+
+[2022-03-09 16:48:03] - @killanas:matrix.mtololo.com: да
+
+[2022-03-09 16:49:18] - @killanas:matrix.mtololo.com: с гита 6 дней назад актальность. 
+
+[2022-03-09 16:49:41] - @killanas:matrix.mtololo.com: manual__6___2_ (1).rtf
+
+[2022-03-09 16:49:56] - @killanas:matrix.mtololo.com: > <@killanas:matrix.mtololo.com> sent a file.
+
+вот этот крайний
+
+[2022-03-09 16:50:46] - @saint:matrix.mtololo.com: все спасибо
+
+[2022-03-09 16:59:47] - @killanas:matrix.mtololo.com: На всякий, включу в тг звонки.
+На случай если в чатах не будет возможности дописаться.
+Ну мало ли. 
+
+[2022-03-09 17:13:27] - @saint:matrix.mtololo.com: да сегодня ужн всё
+
+[2022-03-09 17:13:33] - @saint:matrix.mtololo.com: врубай, наберу
+
+[2022-03-09 17:13:34] - @saint:matrix.mtololo.com: )))
+
+[2022-03-10 01:17:19] - @killanas:matrix.mtololo.com: Привет.
+Для билдера мне бы виндовый сервак. На битвпс ток линуксы.
+Подскажешь хостинг ?
+
+[2022-03-10 01:18:51] - @killanas:matrix.mtololo.com: чаты почистил
+
+[2022-03-10 02:21:35] - @killanas:matrix.mtololo.com: А хотя попробую без винды
+
+[2022-03-10 05:26:51] - @saint:matrix.mtololo.com: битлаунч
+
+[2022-03-10 05:28:58] - @killanas:matrix.mtololo.com: Мерси
+
+[2022-03-10 13:46:00] - @killanas:matrix.mtololo.com: http://exbewwkztost46bvv2tkait243mcypbwzkgsikd2xyiel7nrsammweid.onion
+
+[2022-03-10 13:46:05] - @killanas:matrix.mtololo.com: Новая админка 
+
+[2022-03-10 13:46:13] - @killanas:matrix.mtololo.com: admin1
+
+[2022-03-10 13:46:20] - @killanas:matrix.mtololo.com: $NT8/s72)N~Pm*2e
+
+[2022-03-10 14:11:12] - @killanas:matrix.mtololo.com: Терпильская часть:
+http://etryvkblcwfkdjxwnaalq4dzb4xgvmxvdna3witgtahvoikwgk77egid.onion
+
+[2022-03-11 05:45:09] - @saint:matrix.mtololo.com: всм
+
+[2022-03-11 05:45:11] - @saint:matrix.mtololo.com: новая
+
+[2022-03-11 05:45:13] - @saint:matrix.mtololo.com: а старая че
+
+[2022-03-11 05:54:47] - @killanas:matrix.mtololo.com: Ну старая стоит.
+
+[2022-03-11 05:55:22] - @saint:matrix.mtololo.com: окей
+
+[2022-03-11 05:56:23] - @killanas:matrix.mtololo.com: Заново все пргодеплоили. Пофиксили косяки. Побольше взяли срок аренды.
+
+[2022-03-11 05:56:35] - @saint:matrix.mtololo.com: хорошо
+
+[2022-03-11 05:56:42] - @killanas:matrix.mtololo.com: Я помню что на старом ещё таргет должен быть 
+
+[2022-03-11 05:56:51] - @saint:matrix.mtololo.com: не будет наверное
+
+[2022-03-11 05:56:53] - @saint:matrix.mtololo.com: попросили билд
+
+[2022-03-11 05:56:57] - @saint:matrix.mtololo.com: оказалос ьтайвань корп
+
+[2022-03-11 05:57:02] - @saint:matrix.mtololo.com: а мы дружеские страны не трогаем
+
+[2022-03-11 05:57:25] - @killanas:matrix.mtololo.com: Так старую можно прикрывать?
+
+[2022-03-11 05:57:32] - @killanas:matrix.mtololo.com: Те билды что делал ночью не нужны ?
+
+[2022-03-11 05:57:34] - @saint:matrix.mtololo.com: пока хз
+
+[2022-03-11 05:57:41] - @saint:matrix.mtololo.com: вечером дам знать
+
+[2022-03-11 05:58:06] - @killanas:matrix.mtololo.com: Не не к спеху. Просто проверять ли что все ок там ) или забить, к этому 
+
+[2022-03-11 05:58:18] - @saint:matrix.mtololo.com: забей
+
+[2022-03-11 05:58:48] - @killanas:matrix.mtololo.com: Ок
+
+[2022-03-11 05:59:12] - @killanas:matrix.mtololo.com: Билдером в инете занимаемся. Думаем бинарь патчить. Что бы на линуксовой тачке только бинари хранить без исходника 
+
+[2022-03-11 05:59:32] - @killanas:matrix.mtololo.com: Думаю день два и будет вебка готовая для скачивания 
+
+[2022-03-11 06:00:04] - @killanas:matrix.mtololo.com: По морферу какая-то дичь. Вроде детекты вычислили, потом опять подсвечивать начало. Но уже надеюсь финалочка 
+
+[2022-03-11 06:03:50] - @saint:matrix.mtololo.com: так
+
+[2022-03-11 06:04:00] - @saint:matrix.mtololo.com: без ключей
+
+[2022-03-11 06:04:03] - @saint:matrix.mtololo.com: хранить только на сервере над
+
+[2022-03-11 06:04:11] - @saint:matrix.mtololo.com: что бы одним разом не ебанули все ключи нам
+
+[2022-03-11 06:05:01] - @killanas:matrix.mtololo.com: Хм...
+На серваке планировал только для шифрования бинари хранить.
+
+[2022-03-11 06:05:15] - @killanas:matrix.mtololo.com: Ключи собирался выдавать только после того как ты деньги получишь 
+
+[2022-03-11 06:05:19] - @saint:matrix.mtololo.com: да
+
+[2022-03-11 06:05:25] - @killanas:matrix.mtololo.com: Ну наверное же в ручном режиме все таки 
+
+[2022-03-11 06:05:25] - @saint:matrix.mtololo.com: так и надо
+
+[2022-03-11 06:05:27] - @saint:matrix.mtololo.com: но на каждый таргет
+
+[2022-03-11 06:05:33] - @saint:matrix.mtololo.com: отдельный ключ
+
+[2022-03-11 06:05:38] - @killanas:matrix.mtololo.com: Разумеется. 
+
+[2022-03-11 06:05:45] - @killanas:matrix.mtololo.com: Билды так и генерятся 
+
+[2022-03-11 06:06:26] - @killanas:matrix.mtololo.com: Просто сделаем 100 бинарей. Зальем на сервак. Напишем скрипт который будет менять записку, адреса и другу инфу
+
+[2022-03-11 06:06:50] - @saint:matrix.mtololo.com: да норм
+
+[2022-03-11 06:06:51] - @killanas:matrix.mtololo.com: Ну и обёртку в Торе которая будет выдавать билд по логину и паролю 
+
+[2022-03-11 06:06:57] - @killanas:matrix.mtololo.com: Ну и базу вести кому какой бинарь выдаётся 
+
+[2022-03-11 06:06:58] - @saint:matrix.mtololo.com: а как поймете от какого бинаря
+
+[2022-03-11 06:07:00] - @saint:matrix.mtololo.com: ключ
+
+[2022-03-11 06:07:03] - @killanas:matrix.mtololo.com: Плюс снимание хешей 
+
+[2022-03-11 06:07:06] - @saint:matrix.mtololo.com: ок
+
+[2022-03-11 06:07:19] - @saint:matrix.mtololo.com: это по винде
+
+[2022-03-11 06:07:23] - @saint:matrix.mtololo.com: кооперируйся с остилером
+
+[2022-03-11 06:07:25] - @killanas:matrix.mtololo.com: Хэши что бы понять вдруг кто из даунов на вт льет 
+
+[2022-03-11 06:07:27] - @saint:matrix.mtololo.com: что бы удобно было
+
+[2022-03-11 06:07:36] - @killanas:matrix.mtololo.com: У стилера уточнил 
+
+[2022-03-11 06:07:42] - @killanas:matrix.mtololo.com: Он сказал что сделает свой сервак 
+
+[2022-03-11 06:07:46] - @killanas:matrix.mtololo.com: Мне без разницы в целом 
+
+[2022-03-11 06:07:48] - @saint:matrix.mtololo.com: отдельный?
+
+[2022-03-11 06:08:10] - @killanas:matrix.mtololo.com: Могу сделать и екси вместе с виндой. Могу, тащить бинари с его сервака.
+
+[2022-03-11 06:08:15] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> отдельный?
+
+Угу
+
+[2022-03-11 06:08:15] - @saint:matrix.mtololo.com: да
+
+[2022-03-11 06:08:18] - @saint:matrix.mtololo.com: что бы на одной морде
+
+[2022-03-11 06:08:23] - @saint:matrix.mtololo.com: можно было билды сделать
+
+[2022-03-11 06:08:33] - @killanas:matrix.mtololo.com: Ну по факту у него будет свой сервак и полностью его кухня.
+
+[2022-03-11 06:08:46] - @killanas:matrix.mtololo.com: Но выдавать билды будем с одной вебки 
+
+[2022-03-11 06:09:10] - @killanas:matrix.mtololo.com: Пока обозрачв это в том чате 
+
+[2022-03-12 12:46:45] - @saint:matrix.mtololo.com: ты тут?
+
+[2022-03-12 13:00:03] - @killanas:matrix.mtololo.com: Привет да 
+
+[2022-03-12 13:00:10] - @killanas:matrix.mtololo.com: Работает 
+
+[2022-03-12 13:00:15] - @saint:matrix.mtololo.com: ок
+
+[2022-03-12 13:00:34] - @killanas:matrix.mtololo.com: Что то нужно сделать?)
+
+[2022-03-12 13:00:39] - @saint:matrix.mtololo.com: net
+
+[2022-03-12 13:00:43] - @saint:matrix.mtololo.com: просто матрикс проверял
+
+[2022-03-12 13:00:46] - @killanas:matrix.mtololo.com: Ааа
+
+[2022-03-12 13:10:46] - @killanas:matrix.mtololo.com: А то я уже напугался)
+
+[2022-03-12 17:09:20] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> оказалос ьтайвань корп
+
+По поводу списка недружественных стран. Тайвань это Китайская Украина. Про американская
+
+[2022-03-12 17:09:20] - @killanas:matrix.mtololo.com: https://ru.m.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BD%D0%B5%D0%B4%D1%80%D1%83%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D1%81%D1%82%D1%80%D0%B0%D0%BD_(%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F)
+
+[2022-03-12 19:55:26] - @saint:matrix.mtololo.com: я знаю что это
+
+[2022-03-13 05:54:03] - @killanas:matrix.mtololo.com: Аа) да я просто не знал)
+
+[2022-03-13 07:50:26] - @killanas:matrix.mtololo.com: IMG_20220313_165006.jpg
+
+[2022-03-13 07:50:54] - @killanas:matrix.mtololo.com: Есть какие-то особенности?
+
+[2022-03-13 07:51:01] - @killanas:matrix.mtololo.com: и update тоже говорит что истек ключ
+
+[2022-03-13 08:35:46] - @saint:matrix.mtololo.com: java -XX:ParallelGCThreads=4 -Dcobaltstrike.server_port=57420 -Djavax.net.ssl.keyStore=./cobaltstrike.store -Djavax.net.ssl.keyStorePassword=sUp3r@dm1n -server -XX:+AggressiveHeap -XX:+UseParallelGC -Xms512M -Xmx1024M -javaagent:hook.jar -classpath ./cobaltstrike.jar server.TeamServer IP PASS
+
+[2022-03-13 08:35:50] - @saint:matrix.mtololo.com: порт смотри сам
+
+[2022-03-13 08:39:35] - @saint:matrix.mtololo.com: а и джава 13 нужна
+
+[2022-03-13 08:39:38] - @saint:matrix.mtololo.com: 11 не подойдет
+
+[2022-03-13 11:16:21] - @saint:matrix.mtololo.com: получилось не?
+
+[2022-03-13 14:00:22] - @killanas:matrix.mtololo.com: не
+
+[2022-03-13 14:03:12] - @killanas:matrix.mtololo.com: после всех попыток поставить яву, встала только 17
+из deb с оф репы не ставилась
+с 17 запустил по той команде
+поднялся серв
+хочу поднять клиент
+сначала update потом start
+результат - не работает
+
+[2022-03-13 14:13:31] - @saint:matrix.mtololo.com: ага
+
+[2022-03-13 14:13:32] - @saint:matrix.mtololo.com: 13 ставь
+
+[2022-03-13 14:13:33] - @saint:matrix.mtololo.com: jre
+
+[2022-03-13 14:13:39] - @saint:matrix.mtololo.com: не встанет на 17
+
+[2022-03-13 14:15:16] - @killanas:matrix.mtololo.com: Не накатывается 13
+
+[2022-03-13 14:15:26] - @saint:matrix.mtololo.com: из офф репо качай
+
+[2022-03-13 14:15:33] - @saint:matrix.mtololo.com: это тимсервер
+
+[2022-03-13 14:15:33] - @killanas:matrix.mtololo.com: Ява та ещё бяка ) в курсе) что более новая не прокатит 
+
+[2022-03-13 14:15:36] - @saint:matrix.mtololo.com: а клиент похуй
+
+[2022-03-13 14:15:38] - @killanas:matrix.mtololo.com: Но 13 не взлетела 
+
+[2022-03-13 14:15:49] - @killanas:matrix.mtololo.com: Пока оставлю 
+
+[2022-03-13 14:16:36] - @killanas:matrix.mtololo.com: День, два на патчинг в вебе думаю направить 
+
+[2022-03-13 14:16:40] - @killanas:matrix.mtololo.com: Потом уже с кобой 
+
+[2022-03-13 14:16:50] - @saint:matrix.mtololo.com: надо будет еще сайт утечек бы сделать
+
+[2022-03-13 14:16:51] - @killanas:matrix.mtololo.com: Я ее оч давно юзал если честно 
+
+[2022-03-13 14:17:14] - @saint:matrix.mtololo.com: с CDN своими
+
+[2022-03-13 14:17:19] - @killanas:matrix.mtololo.com: Чел который вебку делает ее уже сделал. 
+
+[2022-03-13 14:17:26] - @saint:matrix.mtololo.com: что делает
+
+[2022-03-13 14:17:27] - @killanas:matrix.mtololo.com: Ждёт от меня билды и тд
+
+[2022-03-13 14:17:27] - @saint:matrix.mtololo.com: ?
+
+[2022-03-13 14:17:30] - @saint:matrix.mtololo.com: сделал что
+
+[2022-03-13 14:17:41] - @saint:matrix.mtololo.com: сайт утечек
+
+[2022-03-13 14:17:43] - @saint:matrix.mtololo.com: говорю
+
+[2022-03-13 14:17:44] - @saint:matrix.mtololo.com: а не билдер
+
+[2022-03-13 14:17:44] - @killanas:matrix.mtololo.com: Ну подготовил все, что бы на вебке выдавать билды 
+
+[2022-03-13 14:18:01] - @killanas:matrix.mtololo.com: Ну мы же пока билдер не закончили 
+
+[2022-03-13 14:18:05] - @saint:matrix.mtololo.com: ок
+
+[2022-03-13 14:18:08] - @killanas:matrix.mtololo.com: А сайт утечек 
+
+[2022-03-13 14:18:10] - @killanas:matrix.mtololo.com: Да услышал 
+
+[2022-03-13 14:18:34] - @killanas:matrix.mtololo.com: Я особо не вникал. Ну не мое все таки дело как бы. Но я думал что он есть 
+
+[2022-03-13 14:18:53] - @saint:matrix.mtololo.com: он есть
+
+[2022-03-13 14:18:55] - @saint:matrix.mtololo.com: но вырвиглаз
+
+[2022-03-13 14:19:00] - @saint:matrix.mtololo.com: http://crptd5sv5bdz6hovrbkac6mnp3rt7zij62njsqwh5a6ldd3asxdd22qd.onion/
+
+[2022-03-13 14:19:55] - @killanas:matrix.mtololo.com: А. Кстати по чату. Можно замечаний накидать. Ну в плане дизайна. Править не долго.
+Но все же дело вкуса 
+
+[2022-03-13 14:20:06] - @saint:matrix.mtololo.com: дизайн похуй
+
+[2022-03-13 14:20:09] - @saint:matrix.mtololo.com: мне этот нравится
+
+[2022-03-13 14:20:27] - @saint:matrix.mtololo.com: по сайту утечек
+
+[2022-03-13 14:20:30] - @saint:matrix.mtololo.com: примерно так вижу дизайн
+
+[2022-03-13 14:20:33] - @saint:matrix.mtololo.com: главнаяя страница
+
+[2022-03-13 14:20:40] - @saint:matrix.mtololo.com: и внизу 10 лого корп
+
+[2022-03-13 14:20:42] - @saint:matrix.mtololo.com: и название
+
+[2022-03-13 14:20:45] - @saint:matrix.mtololo.com: кликаешь
+
+[2022-03-13 14:20:49] - @saint:matrix.mtololo.com: внутри описание корпы и файлы
+
+[2022-03-13 14:21:33] - @killanas:matrix.mtololo.com: а ну этот видел я сайт. Это реально пиздец.
+у локбита по пизже. 
+тут реально ни чего не понятно
+
+[2022-03-13 14:21:48] - @saint:matrix.mtololo.com: ну можно дизайн у них и спиздить
+
+[2022-03-13 14:22:53] - @killanas:matrix.mtololo.com: Ну можно спиздить + добавить свои мысли, как ты предложил, может что-нибудь ещё.
+
+[2022-03-13 14:23:23] - @killanas:matrix.mtololo.com: Я тот ещё дизайнер ) Но как то более структурированно подавать инфу думаю можно
+
+[2022-03-13 14:23:29] - @saint:matrix.mtololo.com: да
+
+[2022-03-13 14:23:53] - @killanas:matrix.mtololo.com: может быть можно даже предоствить возможно контентной фильтрации
+
+[2022-03-13 14:23:56] - @killanas:matrix.mtololo.com: кстати
+
+[2022-03-13 14:24:22] - @killanas:matrix.mtololo.com: ну типо делаем строку поиска в вебе. Люди ищут данные.
+
+[2022-03-13 14:24:30] - @killanas:matrix.mtololo.com: ну отправляют всякие запросы
+
+[2022-03-13 14:24:49] - @killanas:matrix.mtololo.com: типо phone number, ssn, driver number и тд
+
+[2022-03-13 14:25:30] - @killanas:matrix.mtololo.com: а мы эти запросы можем логировать и основываясь на их запросах составить приоритеты инфы которая интересна людям.
+
+[2022-03-13 14:25:40] - @killanas:matrix.mtololo.com: Ну тоесть то что ищут, то скорее всего и ценно
+
+[2022-03-13 14:25:58] - @killanas:matrix.mtololo.com: может быть конечно лишнее, но выглядить не очень сложно. Хз будет ли полезно или нет
+
+[2022-03-16 13:30:33] - @saint:matrix.mtololo.com: тут?
+
+[2022-03-16 13:30:38] - @saint:matrix.mtololo.com: скинь новую сыллку на чат
+
+[2022-03-16 13:30:40] - @saint:matrix.mtololo.com: куда переехал
+
+[2022-03-16 13:30:44] - @saint:matrix.mtololo.com: для терпил
+
+[2022-03-16 13:31:20] - @killanas:matrix.mtololo.com: Привет 
+
+[2022-03-16 13:31:30] - @killanas:matrix.mtololo.com: Сек
+
+[2022-03-16 13:36:40] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> для терпил
+
+Терпильская часть:
+http://etryvkblcwfkdjxwnaalq4dzb4xgvmxvdna3witgtahvoikwgk77egid.onion
+
+[2022-03-16 13:37:05] - @killanas:matrix.mtololo.com: Админская часть:
+http://exbewwkztost46bvv2tkait243mcypbwzkgsikd2xyiel7nrsammweid.onion
+
+[2022-03-16 13:37:32] - @killanas:matrix.mtololo.com: Креды те же:
+admin1
+$NT8/s72)N~Pm*2e
+
+[2022-03-16 13:38:28] - @saint:matrix.mtololo.com: image.png
+
+[2022-03-16 13:38:29] - @saint:matrix.mtololo.com: это я себе
+
+[2022-03-16 13:38:38] - @saint:matrix.mtololo.com: Jan@2022
+
+[2022-03-16 13:41:39] - @saint:matrix.mtololo.com: https://privnote.com/h2CBFgmc#9OaAl2YL7
+
+[2022-03-16 17:05:12] - @saint:matrix.mtololo.com: нету инфы по кобальту?
+
+[2022-03-16 19:51:09] - @killanas:matrix.mtololo.com: Не особо.
+
+[2022-03-16 19:52:13] - @killanas:matrix.mtololo.com: По типу разбираюсь 
+
+[2022-03-16 21:34:49] - @saint:matrix.mtololo.com: > <@killanas:matrix.mtololo.com> По типу разбираюсь
+
+а?
+
+[2022-03-16 22:20:53] - @killanas:matrix.mtololo.com: По тиху (тихоньку). Опечатался.
+
+[2022-03-17 12:18:18] - @saint:matrix.mtololo.com: примерно по срокам
+
+[2022-03-17 12:18:20] - @saint:matrix.mtololo.com: скажешь?
+
+[2022-03-17 12:18:28] - @saint:matrix.mtololo.com: корпа классная есть, хочу нормально сделать засесть её
+
+[2022-03-17 12:18:40] - @saint:matrix.mtololo.com: я нихуя не делаю сейчас потому что инструментов для работы 0
+
+[2022-03-17 12:29:09] - @killanas:matrix.mtololo.com: Привет. Не могу пока сказать.
+Скинул на тесты. Хотел бы взглянуть на результаты хотя бы. И уже потом сделать предположения.
+
+[2022-03-17 12:48:59] - @saint:matrix.mtololo.com: ок
+
+[2022-03-17 16:31:41] - @killanas:matrix.mtololo.com: ну вот. дефендр зеленый. можно работать
+
+[2022-03-17 16:46:50] - @saint:matrix.mtololo.com: там cisco adp endpoint
+
+[2022-03-17 16:47:15] - @killanas:matrix.mtololo.com: не завершил мысль
+
+[2022-03-17 16:47:24] - @killanas:matrix.mtololo.com: что точно должно быть зеленым?
+
+[2022-03-17 16:47:40] - @saint:matrix.mtololo.com: софос
+
+[2022-03-17 16:47:42] - @saint:matrix.mtololo.com: кровдстрайк
+
+[2022-03-17 16:47:56] - @saint:matrix.mtololo.com: и симантек
+
+[2022-03-17 16:49:41] - @killanas:matrix.mtololo.com: > <@killanas:matrix.mtololo.com> ну вот. дефендр зеленый. можно работать
+
+Это была конечно шутка, я так не считал)
+
+[2022-03-17 16:49:59] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> и симантек
+
+Тут принял. Хотел бы до конца недели
+
+[2022-03-17 16:49:59] - @saint:matrix.mtololo.com: я понял
+
+[2022-03-17 16:50:05] - @saint:matrix.mtololo.com: ну смотри
+
+[2022-03-17 16:50:07] - @killanas:matrix.mtololo.com: поколдовать
+
+[2022-03-17 16:50:09] - @saint:matrix.mtololo.com: просто я работать не могу
+
+[2022-03-17 16:50:13] - @saint:matrix.mtololo.com: без кобы нормально ща
+
+[2022-03-17 16:50:40] - @killanas:matrix.mtololo.com: Ну тоесть это получается максимальный приоритет?
+
+[2022-03-17 16:50:50] - @saint:matrix.mtololo.com: да
+
+[2022-03-17 16:50:51] - @killanas:matrix.mtololo.com: ну в принципе да)
+
+[2022-03-17 16:52:19] - @killanas:matrix.mtololo.com: понял. постараюсь оперативно.
+ну и надеюсь все получится.
+на этом тесте я ожидал по хуже результат.
+
+[2022-03-17 16:52:31] - @saint:matrix.mtololo.com: хорошо
+
+[2022-03-22 14:27:12] - @saint:matrix.mtololo.com: ну что подвижки есть?
+
+[2022-03-22 14:28:55] - @killanas:matrix.mtololo.com: Привет 
+
+[2022-03-22 14:28:56] - @killanas:matrix.mtololo.com: Ну судя по скрину не особо 
+
+[2022-03-22 14:29:51] - @killanas:matrix.mtololo.com: Будет. Но вопрос когда.
+
+[2022-03-22 14:30:11] - @saint:matrix.mtololo.com: скан то похуй в принципе
+
+[2022-03-22 14:30:17] - @saint:matrix.mtololo.com: главное что бы запускалось и работало
+
+[2022-03-22 14:30:21] - @killanas:matrix.mtololo.com: Пока видишь 
+
+[2022-03-22 14:30:25] - @saint:matrix.mtololo.com: скан можно обойти сертом
+
+[2022-03-22 14:30:27] - @killanas:matrix.mtololo.com: Мы пробуем подходы 
+
+[2022-03-22 14:30:44] - @killanas:matrix.mtololo.com: Но найти решение нормальное не удалось
+
+[2022-03-22 14:31:57] - @killanas:matrix.mtololo.com: Как бы коба же задрочена жёстко. Все подряд ищут чистку и тд.
+
+[2022-03-22 14:32:20] - @killanas:matrix.mtololo.com: Я бы с удовольствием бы отдал почистил и получил монетки )
+
+[2022-03-22 14:33:43] - @killanas:matrix.mtololo.com: Пока так же в приоритете Коба. Но похвастать нечем 
+
+[2022-03-22 14:33:57] - @killanas:matrix.mtololo.com: По выдаче билдов не смотрел вебку ?
+
+[2022-03-22 14:34:04] - @saint:matrix.mtololo.com: смотрел
+
+[2022-03-22 14:34:09] - @killanas:matrix.mtololo.com: Что скажешь?
+
+[2022-03-22 14:34:11] - @saint:matrix.mtololo.com: но толку от нее пока 0, я сделать сетку не могу
+
+[2022-03-22 14:34:13] - @killanas:matrix.mtololo.com: Что поправить ?
+
+[2022-03-22 14:34:16] - @saint:matrix.mtololo.com: и надо никс локер тож туда
+
+[2022-03-22 14:34:16] - @killanas:matrix.mtololo.com: Ааа
+
+[2022-03-22 14:34:18] - @killanas:matrix.mtololo.com: Понял 
+
+[2022-03-22 14:34:18] - @saint:matrix.mtololo.com: а так норм да
+
+[2022-03-22 14:35:30] - @killanas:matrix.mtololo.com: По ней можно паралельно править, там отдельно чел занимается по факту.
+Стилер сегодня отписал. Добавим выдачу его екси, как согласуем вопрос как он будет отдавать билд.
+
+[2022-03-22 14:35:40] - @saint:matrix.mtololo.com: ок
+
+[2022-03-22 14:46:29] - @killanas:matrix.mtololo.com: По вебке с выдачей билдов не будет плюшек ?)
+
+[2022-03-22 15:12:57] - @saint:matrix.mtololo.com: давай как с кобой закончишь
+
+[2022-03-22 15:14:02] - @killanas:matrix.mtololo.com: )) так и думал, что так скажешь 
+
+[2022-03-22 15:14:13] - @killanas:matrix.mtololo.com: Принял 
+
+[2022-03-23 16:34:11] - @saint:matrix.mtololo.com: слух
+
+[2022-03-23 16:34:24] - @killanas:matrix.mtololo.com: Я)
+
+[2022-03-23 16:34:27] - @killanas:matrix.mtololo.com: Пртв
+
+[2022-03-23 16:34:28] - @saint:matrix.mtololo.com: а ты можешь на сайте переговоров со стороны терпил сделать флаг укр и написать we stand with ukraine
+
+[2022-03-23 16:34:30] - @killanas:matrix.mtololo.com: Прив
+
+[2022-03-23 16:34:33] - @saint:matrix.mtololo.com: привет
+
+[2022-03-23 16:34:46] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> а ты можешь на сайте переговоров со стороны терпил сделать флаг укр и написать we stand with ukraine
+
+Пхахахах) прикол 
+
+[2022-03-23 16:34:49] - @killanas:matrix.mtololo.com: Давай 
+
+[2022-03-23 16:34:49] - @saint:matrix.mtololo.com: когнитивный десонанс устроим
+
+[2022-03-23 16:35:10] - @killanas:matrix.mtololo.com: Эм. Но что то не логично выглядит 
+
+[2022-03-23 16:35:13] - @killanas:matrix.mtololo.com: Мы же типо китайцы 
+
+[2022-03-23 16:35:18] - @saint:matrix.mtololo.com: да
+
+[2022-03-23 16:35:23] - @killanas:matrix.mtololo.com:  А им насрать на Украину 
+
+[2022-03-23 16:35:25] - @killanas:matrix.mtololo.com: Окей 
+
+[2022-03-23 16:35:25] - @saint:matrix.mtololo.com: будут думать что мы китайсы укр происхождения
+
+[2022-03-23 16:35:27] - @killanas:matrix.mtololo.com: Как скажешь 
+
+[2022-03-23 16:35:42] - @saint:matrix.mtololo.com: за то компании смогут хвастся
+
+[2022-03-23 16:35:48] - @saint:matrix.mtololo.com: 6 значными суммами донат в укр
+
+[2022-03-23 16:36:14] - @killanas:matrix.mtololo.com: А ребенка в крови с гордо поднятой украинским флагом нужно разместить ?)
+
+[2022-03-23 16:36:24] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> 6 значными суммами донат в укр
+
+Хохо
+
+[2022-03-23 16:36:27] - @saint:matrix.mtololo.com: хуй знает
+
+[2022-03-23 16:36:28] - @killanas:matrix.mtololo.com: Ну так то да 
+
+[2022-03-23 16:36:34] - @saint:matrix.mtololo.com: слишком палево будет мне кажется
+
+[2022-03-23 16:36:37] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> хуй знает
+
+Да это я щуткую конечно же 
+
+[2022-03-23 16:36:49] - @saint:matrix.mtololo.com: надо еще кнопку сделать
+
+[2022-03-23 16:36:52] - @saint:matrix.mtololo.com: донат помощь всу
+
+[2022-03-23 16:37:12] - @saint:matrix.mtololo.com: ну и там кошельки бтк
+
+[2022-03-23 16:37:17] - @saint:matrix.mtololo.com: лайткоин монеро
+
+[2022-03-23 16:37:23] - @saint:matrix.mtololo.com: что еще популярное у зумеров там
+
+[2022-03-23 16:37:27] - @killanas:matrix.mtololo.com: Только БТК или эфир и 
+
+[2022-03-23 16:37:29] - @killanas:matrix.mtololo.com: Ааа
+
+[2022-03-23 16:37:32] - @killanas:matrix.mtololo.com: Опередил вопрос 
+
+[2022-03-23 16:37:55] - @saint:matrix.mtololo.com: а еще добавить в FAQ что 15% от прибыли мы донатим на укр
+
+[2022-03-23 16:38:37] - @killanas:matrix.mtololo.com: Тема тема
+
+[2022-03-23 16:38:46] - @killanas:matrix.mtololo.com: Ну круто точнее )
+
+[2022-03-23 16:38:47] - @saint:matrix.mtololo.com: про faq пока хз
+
+[2022-03-23 16:38:54] - @saint:matrix.mtololo.com: но думаю использовать можно
+
+[2022-03-23 16:39:00] - @saint:matrix.mtololo.com: потом в сайт утечек кидать
+
+[2022-03-23 16:39:03] - @saint:matrix.mtololo.com: пожалели бабки на украину
+
+[2022-03-23 16:39:34] - @killanas:matrix.mtololo.com: Ну я подумал не в факю засунуть, а куда нибудь где кнопка донат, ну типо аккуратненько в дефолтном месте для рекламы. Не выделяющимся шрифтом 
+
+[2022-03-23 16:39:40] - @saint:matrix.mtololo.com: да
+
+[2022-03-23 16:40:22] - @killanas:matrix.mtololo.com: По морферу и Кобе глянул крайние тесты ?
+
+[2022-03-23 16:40:37] - @saint:matrix.mtololo.com: lf
+
+[2022-03-23 16:40:39] - @saint:matrix.mtololo.com: yj yt
+
+[2022-03-23 16:40:40] - @saint:matrix.mtololo.com: да но не понял
+
+[2022-03-23 16:40:42] - @saint:matrix.mtololo.com: что значит
+
+[2022-03-23 16:40:42] - @saint:matrix.mtololo.com: 95
+
+[2022-03-23 16:40:48] - @saint:matrix.mtololo.com: б12
+
+[2022-03-23 16:40:51] - @killanas:matrix.mtololo.com: Номер теста морфера 
+
+[2022-03-23 16:40:59] - @killanas:matrix.mtololo.com: Типо 92 тест 
+
+[2022-03-23 16:41:14] - @killanas:matrix.mtololo.com: А б12, это бекон двенадцатый тест по счету 
+
+[2022-03-23 16:43:03] - @killanas:matrix.mtololo.com: > <@killanas:matrix.mtololo.com> Типо 92 тест 
+
+92 тест морфера. И 12 тест бекона.
+
+[2022-03-23 16:44:11] - @saint:matrix.mtololo.com: ok
+
+[2022-03-23 16:44:15] - @saint:matrix.mtololo.com: vrode vse good
+
+[2022-03-23 16:44:32] - @killanas:matrix.mtololo.com: Ну по морферу да
+
+[2022-03-23 16:44:39] - @killanas:matrix.mtololo.com: А бекон так понял ещё чистить)
+
+[2022-03-25 11:40:57] - @saint:matrix.mtololo.com: привет
+
+[2022-03-25 11:41:01] - @saint:matrix.mtololo.com: че есть новости?
+
+[2022-03-25 12:22:54] - @killanas:matrix.mtololo.com: Привет.
+С момента последней проверки не особо подвижки, ну тоесть в пустую время уебал. Подход оказался не рабочим. Ну называть можно как угодно.
+Сейчас ещё мысль подкинули. Думаю (ну по крайней мере надеюсь) получится.
+
+[2022-03-25 13:04:58] - @killanas:matrix.mtololo.com: Ну как бы, я сразу с опаской относился и понимал что быстро не сделаю.
+
+[2022-03-25 13:07:47] - @killanas:matrix.mtololo.com: Думаю после того как будет успех, можно будет повторять итерации по чистке в более короткие сроки, за счёт того что не буду тратить время на ненужные вещи, код знаком будет и т.д.
+
+[2022-03-26 05:47:41] - @saint:matrix.mtololo.com: попробуй серт прикрепить, и сменить иконку
+
+[2022-03-26 05:47:43] - @saint:matrix.mtololo.com: мб поможет
+
+[2022-03-26 05:50:49] - @killanas:matrix.mtololo.com: не думаю что поможет, но попробую 
+
+[2022-03-26 05:51:44] - @killanas:matrix.mtololo.com: Примерно вот такие тесты сделал (которые принесли пользу):
+1.	без изменений -> -3 АВ без детекта (Fortinet,   webroot, cylance)
+2.	замена выделения памяти VirtualAlloc на HeapAlloc -> -3 АВ минус (Fortinet,    webroot, cylance)
+3.	обертывание строки в RC4-> -2 АВ минус (Trend Micro, McAfee)
+4.	использование syswhisper v.1 -> +1 АВ (cylance)
+5.	использование морфера на билд в пункте 4 -> -3 АВ (Kaspersky, Cylance, Symantec)
+Идеи
+1.	Syswhisper v2 (уже в процессе)
+2.	смена ключа шифрования конфига бикона
+3.	Мусорные вставки, вызовы
+
+Чего осталось добиться:
+снять детекты с софос и кровд 
+
+
+[2022-03-26 05:52:01] - @saint:matrix.mtololo.com: +
+
+[2022-03-27 07:33:11] - @saint:matrix.mtololo.com: https://xss.is/threads/64851/page-2
+
+[2022-03-27 07:33:13] - @saint:matrix.mtololo.com: смари
+
+[2022-03-27 07:33:19] - @saint:matrix.mtololo.com: там по gpo интересная тема
+
+[2022-03-27 07:34:09] - @killanas:matrix.mtololo.com: Принял. Чекну.
+
+[2022-03-27 11:16:47] - @killanas:matrix.mtololo.com: А Феликс не отписывал?
+Обычно он каждый день в сети. У него там все ок ? Ждать его ?
+
+[2022-03-27 11:16:56] - @saint:matrix.mtololo.com: не знаю как у него там
+
+[2022-03-27 11:17:00] - @saint:matrix.mtololo.com: он в зоне боевых действий
+
+[2022-03-27 11:17:10] - @killanas:matrix.mtololo.com: Ну может отписывал просто 
+
+[2022-03-27 11:17:13] - @saint:matrix.mtololo.com: нет
+
+[2022-03-27 11:17:16] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> он в зоне боевых действий
+
+Ага. Говорил ((
+
+[2022-03-27 11:17:38] - @killanas:matrix.mtololo.com: Давай его в Россию вывезем ?)
+
+[2022-03-27 11:17:47] - @saint:matrix.mtololo.com: есть кто вывозит?
+
+[2022-03-27 11:19:18] - @killanas:matrix.mtololo.com: Ну я думаю что смог бы при желании договориться с вояками, что бы его не ебнули в определенном месте и вытащили. 
+
+[2022-03-27 11:20:25] - @saint:matrix.mtololo.com: @calls со связями у нас
+
+[2022-03-27 11:20:25] - @killanas:matrix.mtololo.com: Хз как это делается. Конечно. Но он же еще говорил что не в ру поедет а в другую страну какую то ))
+
+[2022-03-27 11:20:28] - @saint:matrix.mtololo.com: у него спросить могу
+
+[2022-03-27 11:20:42] - @saint:matrix.mtololo.com: из ру просто выехать легче будет
+
+[2022-03-27 11:22:09] - @killanas:matrix.mtololo.com: Та я просто намекнул что  оооочень хорошо знаю именно вояк) если без подробностей )
+Думаю если бы была необходимость отписал бы ))
+
+[2022-03-27 11:22:38] - @saint:matrix.mtololo.com: да
+
+[2022-03-27 15:02:23] - @killanas:matrix.mtololo.com: image_20220328000143.png
+
+[2022-03-27 15:03:03] - @killanas:matrix.mtololo.com: Примерно вот так будет.
+Только для кошельков будет выпадающий список наверное.
+
+[2022-03-27 15:31:34] - @saint:matrix.mtololo.com: ок
+
+[2022-03-27 15:31:48] - @saint:matrix.mtololo.com: +
+
+[2022-03-28 03:08:03] - @killanas:matrix.mtololo.com: По групповым политикам
+там как-то размыто, скорее всего будет дописано в следующей статье. Он определяет работает ли он щас на DC, получает доменное имя днс, получает имя администратора домена. 
+Мне кажется что прикольно было бы, работая на DC создать своего админа, а у остальных права все порезать)))
+Ну чтоб они внутри домена ничего не смогли сделать
+
+В целом, достоинств мне понравилось про огроничение доступа к своему процессу и шифрование 4кб
+
+[2022-03-28 05:27:18] - @killanas:matrix.mtololo.com: По поводу поддержки всу.
+Скинь кошельки которые указать.
+Если нужно поставить всякие малоизвестные могу указать свои, которые из аппаратного криптокошелька.
+
+[2022-03-28 11:29:27] - @saint:matrix.mtololo.com: да свои можешь
+
+[2022-03-28 13:59:16] - @killanas:matrix.mtololo.com: да. так и решил сделать. если что там заменить на твой пару минут
+
+[2022-03-28 14:38:24] - @saint:matrix.mtololo.com: ок
+
+[2022-03-28 18:22:50] - @saint:matrix.mtololo.com: тут?
+
+[2022-03-28 19:45:12] - @killanas:matrix.mtololo.com: Привет да 
+
+[2022-03-28 19:53:16] - @saint:matrix.mtololo.com: по кобе новости есть?
+
+[2022-03-28 22:26:59] - @killanas:matrix.mtololo.com: пока билд висит для теста на ав
+
+[2022-03-28 22:27:04] - @killanas:matrix.mtololo.com: посмотрим
+
+[2022-03-28 22:57:30] - @killanas:matrix.mtololo.com: кобу собирали из исходников или уже готовая сборка была?
+
+[2022-03-29 06:13:41] - @killanas:matrix.mtololo.com: Хочу отдать ещё одну сборку 
+
+[2022-03-29 06:13:44] - @killanas:matrix.mtololo.com: На тесты ав
+
+[2022-03-29 06:13:53] - @killanas:matrix.mtololo.com: Но Тимка не доступна для подписи
+
+[2022-03-29 09:15:34] - @saint:matrix.mtololo.com: поднимут скоро
+
+[2022-03-29 09:17:32] - @killanas:matrix.mtololo.com: Бобро
+
+[2022-03-29 09:36:48] - @saint:matrix.mtololo.com: врубили
+
+[2022-03-29 09:37:09] - @killanas:matrix.mtololo.com: Принял 
+
+[2022-03-29 10:13:29] - @killanas:matrix.mtololo.com: там на тимке нужно разлочить токен в проге
+
+[2022-03-29 10:30:43] - @killanas:matrix.mtololo.com: яхз как это делать
+
+[2022-03-29 10:30:50] - @killanas:matrix.mtololo.com: и чтоб не напортачить ничего не трогал
+
+[2022-03-29 10:30:59] - @killanas:matrix.mtololo.com: нужно разлочить токен в проге
+
+[2022-03-29 10:58:04] - @saint:matrix.mtololo.com: все работает
+
+[2022-03-29 10:58:05] - @saint:matrix.mtololo.com: сказал
+
+[2022-03-29 10:58:31] - @saint:matrix.mtololo.com: 12345678
+
+[2022-03-29 10:58:33] - @saint:matrix.mtololo.com: пасс на токен
+
+[2022-03-29 11:03:17] - @saint:matrix.mtololo.com: Conti Source Code Version 3.7z
+
+[2022-03-29 11:03:23] - @saint:matrix.mtololo.com: infected
+
+[2022-03-29 11:03:25] - @saint:matrix.mtololo.com: сурцы конти
+
+[2022-03-29 11:03:31] - @saint:matrix.mtololo.com: глянь мю че полезное можно спиздить
+
+[2022-03-29 11:03:39] - @killanas:matrix.mtololo.com: Хохо
+
+[2022-03-29 11:03:43] - @killanas:matrix.mtololo.com: Норм пьнка
+
+[2022-03-29 11:04:30] - @killanas:matrix.mtololo.com: С подписью все четко. Работает. За подпишу 
+
+[2022-03-29 11:04:37] - @killanas:matrix.mtololo.com: Спс
+
+[2022-03-29 11:05:01] - @saint:matrix.mtololo.com: +
+
+[2022-03-29 13:26:34] - @killanas:matrix.mtololo.com: глянь плз крайние результаты по кобе
+
+[2022-03-29 13:26:43] - @killanas:matrix.mtololo.com: ну точнее там по морферу часть тестов
+
+[2022-03-29 13:26:56] - @killanas:matrix.mtololo.com: а два крайних это не подписаный и подписаный бикон
+
+[2022-03-29 13:27:27] - @killanas:matrix.mtololo.com: вроде довольно не плохой результат.
+
+[2022-03-29 14:04:20] - @saint:matrix.mtololo.com: да норм
+
+[2022-03-29 14:06:52] - @killanas:matrix.mtololo.com: Фуххх
+
+[2022-03-29 14:07:16] - @killanas:matrix.mtololo.com: Простом квовд я хз что делать если честно 
+
+[2022-03-29 14:07:21] - @killanas:matrix.mtololo.com: Он не особо информативен 
+
+[2022-03-29 14:07:28] - @saint:matrix.mtololo.com: я не понял
+
+[2022-03-29 14:07:29] - @saint:matrix.mtololo.com: он палит?
+
+[2022-03-29 14:07:29] - @killanas:matrix.mtololo.com: А ты поставил задачу 
+
+[2022-03-29 14:07:51] - @killanas:matrix.mtololo.com: Да
+
+[2022-03-29 14:08:07] - @killanas:matrix.mtololo.com: Смотри. Крайний скрин. Феликс скинул какой то старый 
+
+[2022-03-29 14:08:09] - @killanas:matrix.mtololo.com: Ща
+
+[2022-03-29 14:08:17] - @killanas:matrix.mtololo.com: Короче
+
+[2022-03-29 14:09:30] - @saint:matrix.mtololo.com: м30?
+
+[2022-03-29 14:10:05] - @saint:matrix.mtololo.com: все понял
+
+[2022-03-29 14:10:07] - @saint:matrix.mtololo.com: вроде норм
+
+[2022-03-29 14:10:33] - @killanas:matrix.mtololo.com: Ну тоесть на морфер пиздец сил было потрачено
+
+[2022-03-29 14:11:17] - @killanas:matrix.mtololo.com: Может быть не мое дело, но как бы понятно что на него тоже детекты будут накидывать.
+
+[2022-03-29 14:11:57] - @killanas:matrix.mtololo.com: Если ты (мы) будем билды выдавать в вебе. Не получится ли что сравнительно больше/быстрее будут детекты появляться.
+
+[2022-03-29 14:12:12] - @killanas:matrix.mtololo.com: Ну типо пропорция затраченые силы и профит
+
+[2022-03-29 14:12:29] - @saint:matrix.mtololo.com: не получится
+
+[2022-03-29 14:12:30] - @saint:matrix.mtololo.com: забей
+
+[2022-03-29 14:12:51] - @killanas:matrix.mtololo.com: Ну круто.
+
+[2022-03-29 14:12:58] - @killanas:matrix.mtololo.com: тогда сверим роад мап?
+
+[2022-03-29 14:13:04] - @saint:matrix.mtololo.com: ок
+
+[2022-03-29 14:13:08] - @killanas:matrix.mtololo.com: ну типо что делать дальше?
+
+[2022-03-29 14:13:24] - @killanas:matrix.mtololo.com: по вебке остались фиксы по мелочи. по факту причесывание.
+
+[2022-03-29 14:13:25] - @saint:matrix.mtololo.com: сайт утечек готов?
+
+[2022-03-29 14:13:33] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> сайт утечек готов?
+
+ещё не начинался
+
+[2022-03-29 14:13:37] - @saint:matrix.mtololo.com: ну его
+
+[2022-03-29 14:15:11] - @killanas:matrix.mtololo.com: окей.
+1) причесывание чата
+2) припиливание выдачи билдов екси (жду апи от стилера)
+3) сайт утечек (пока ни чего нет)
+4) добавление в локер unc (история старая но пока нет, из за переключения на кобу)
+
+[2022-03-29 14:15:37] - @saint:matrix.mtololo.com: первое и 4 поменяй местами)
+
+[2022-03-29 14:16:05] - @killanas:matrix.mtololo.com: с unc целая история ... дохрена переписывать ...
+
+[2022-03-29 14:16:26] - @saint:matrix.mtololo.com: ну пока таргетов особо нет
+
+[2022-03-29 14:16:28] - @saint:matrix.mtololo.com: лучше сейчас
+
+[2022-03-29 14:17:38] - @saint:matrix.mtololo.com: по кобе ты когда результат собераешься передать мне?
+
+[2022-03-29 14:20:03] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> по кобе ты когда результат собераешься передать мне?
+
+По хорошему, пока нужно потестить работу с сервером для образцов, которые закриптованы
+
+[2022-03-29 14:20:18] - @saint:matrix.mtololo.com: всм
+
+[2022-03-29 14:20:20] - @killanas:matrix.mtololo.com: Смотря как по срочности
+
+[2022-03-29 14:20:22] - @saint:matrix.mtololo.com: ты че делал?
+
+[2022-03-29 14:21:36] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> первое и 4 поменяй местами)
+
+понял. Тут паралельно. на 1 и 2 е отдельный человек. я тут не делал ни чего
+
+[2022-03-29 14:22:17] - @saint:matrix.mtololo.com: так
+
+[2022-03-29 14:22:22] - @saint:matrix.mtololo.com: ты просто криптор пилил?
+
+[2022-03-29 14:22:28] - @saint:matrix.mtololo.com: или я не понял тебя
+
+[2022-03-29 14:24:42] - @killanas:matrix.mtololo.com: > <@saint:matrix.mtololo.com> ты че делал?
+
+я фиксил код артефактов для кобы, еще припилил syswispher2, который WinAPI заменяет сисколами напрямую, а сверху накрыл своим кастомным криптором
+
+[2022-03-29 14:25:02] - @saint:matrix.mtololo.com: ну который я тебе давал артифакт?
+
+[2022-03-29 14:25:19] - @killanas:matrix.mtololo.com: это по кобе
+
+[2022-03-29 14:25:20] - @killanas:matrix.mtololo.com: да
+
+[2022-03-29 14:25:33] - @saint:matrix.mtololo.com: ок
+
+[2022-03-29 14:25:42] - @saint:matrix.mtololo.com: мне сегодня бы уже получить кобу
+
+[2022-03-29 14:29:16] - @killanas:matrix.mtololo.com: ну там надо еще допилить криптор, чтобы он корректно отрабатывал со всеми участками, потому что чем больше он накрывает, тем вроде меньше аверов срабатывает, но это все предварительно приходится руками прорабатывать в асме под отладкой
+я криптор начал пилить на основе куска кода из морфера, но затянулось с ним, потому что бекон в х64, а наш локер и морфер под него на х86, поэтому почти все, что взялЮ пришлось перепилить, и некоторые старые подходы в принципе не работали
+
+[2022-03-29 14:39:50] - @killanas:matrix.mtololo.com: В кратце, могу отдать как есть, но лучше потестить. что бы не было неожиданностей
+Сейчас к серваку цепанулось и команду ls тоже отработал.
+
+[2022-03-29 14:57:22] - @killanas:matrix.mtololo.com: 
+ArtifactKit но только для биконов x64
+kEqeHHPz87}Z~t
+
+[2022-03-29 14:57:29] - @killanas:matrix.mtololo.com: ArtifactKitx64.rar
+
+[2022-03-29 15:00:33] - @killanas:matrix.mtololo.com: crypt.py
+
+[2022-03-29 15:02:25] - @killanas:matrix.mtololo.com: crypt.py накрывает бекон
+применение:
+python crypt.py beacon.exe
+на выходе файл с названием tmp_result.exe
+
+он криптует секции кода и данных в беконе, внедряет шелкод по декрипту и переписывает TLS, который выполняется перед входом в сам код бекона
+
+[2022-03-29 15:02:59] - @killanas:matrix.mtololo.com: из зависимостей модуль pefile
+pip install pefile
+
+[2022-03-29 16:05:58] - @saint:matrix.mtololo.com: всм для х64?
+
+[2022-03-29 16:06:02] - @saint:matrix.mtololo.com: а как сделать днс?
+
+[2022-03-29 16:09:50] - @saint:matrix.mtololo.com: C:\Users\Administrator\Desktop\cs42\CS_4.5_original\ArtifactKitx64>crypt.py dns.
+exe
+[!] VirtualProtect at 0x0044b33c
+[-] There's not enought free space in end of .text section. Need 5 bytes of 0x0.
+ Try to change source code and recompile.
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\cs42\CS_4.5_original\ArtifactKitx64\crypt
+.py", line 124, in <module>
+    xoredText2encode += (text2encode[i]^0xAA).to_bytes(1, 'little')
+TypeError: unsupported operand type(s) for ^: 'str' and 'int'
+
+C:\Users\Administrator\Desktop\cs42\CS_4.5_original\ArtifactKitx64>
+
+
+[2022-03-29 16:10:03] - @saint:matrix.mtololo.com: надо доставить что то?
+
+[2022-03-29 16:10:18] - @saint:matrix.mtololo.com: dns.exe
+
+[2022-03-29 16:33:54] - @saint:matrix.mtololo.com: ты сделаешь?
+
+[2022-03-29 16:34:03] - @saint:matrix.mtololo.com: у меня crypt.py не работает
+
+[2022-03-29 16:34:35] - @killanas:matrix.mtololo.com: Да
+
+[2022-03-29 16:34:37] - @killanas:matrix.mtololo.com: Смотрю 
+
+[2022-03-29 16:35:00] - @saint:matrix.mtololo.com: dns листенер
+
+[2022-03-29 16:35:01] - @saint:matrix.mtololo.com: если что
+
+[2022-03-29 16:44:59] - @killanas:matrix.mtololo.com: crypt (1).py
+
+[2022-03-29 16:45:11] - @saint:matrix.mtololo.com: ты мне ехе можешь дать просто?
+
+[2022-03-29 16:45:41] - @killanas:matrix.mtololo.com: секунда, сейчас хотел загрузить
+
+[2022-03-29 16:46:06] - @saint:matrix.mtololo.com: C:\Users\Administrator\Desktop\cs42\CS_4.5_original\ArtifactKitx64>crypt.py dns.
+exe
+[!] VirtualProtect at 0x0044b33c
+[-] There's not enought free space in end of .text section. Need 5 bytes of 0x0.
+ Try to change source code and recompile.
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\cs42\CS_4.5_original\ArtifactKitx64\crypt
+.py", line 124, in <module>
+    xoredText2encode += (text2encode[i]^0xAA).to_bytes(1, 'little')
+TypeError: unsupported operand type(s) for ^: 'str' and 'int'
+
+[2022-03-29 16:46:24] - @saint:matrix.mtololo.com: давай я тебе ехе давать буду просто
+
+[2022-03-29 16:46:29] - @saint:matrix.mtololo.com: не нужен мне скрипт питон
+
+[2022-03-29 16:48:13] - @killanas:matrix.mtololo.com: dns.rar
+
+[2022-03-29 16:48:14] - @killanas:matrix.mtololo.com: f&8ad7_0Pj^cYl
+
+
+[2022-03-29 16:49:24] - @saint:matrix.mtololo.com: а можешь сделать
+
+[2022-03-29 16:49:25] - @saint:matrix.mtololo.com: иконку?
+
+[2022-03-29 16:53:52] - @killanas:matrix.mtololo.com: dns2.rar
+
+[2022-03-29 16:54:14] - @killanas:matrix.mtololo.com: f&8ad7_0Pj^cYl
+
+[2022-03-29 16:54:20] - @saint:matrix.mtololo.com: сасибо
+
+[2022-03-29 16:54:22] - @saint:matrix.mtololo.com: спасибо
+
+[2022-03-29 16:54:23] - @saint:matrix.mtololo.com: )))
+
+[2022-03-29 16:55:03] - @killanas:matrix.mtololo.com: Все для Вас !)
+
+[2022-03-29 16:57:15] - @saint:matrix.mtololo.com: не работает
+
+[2022-03-29 16:57:52] - @saint:matrix.mtololo.com: image.png
+
+[2022-03-29 16:59:08] - @saint:matrix.mtololo.com: без crypt.py рабоатет
+
+[2022-03-29 16:59:10] - @saint:matrix.mtololo.com: работает*
+
+[2022-03-29 16:59:55] - @saint:matrix.mtololo.com: beacon.exe
+
+[2022-03-29 16:59:58] - @saint:matrix.mtololo.com: сделай сюда просто иконку
+
+[2022-03-29 17:09:03] - @saint:matrix.mtololo.com: ?
+
+[2022-03-29 17:09:05] - @saint:matrix.mtololo.com: сделаешь?
+
+[2022-03-29 17:10:17] - @killanas:matrix.mtololo.com: +
+
+[2022-03-29 17:17:23] - @killanas:matrix.mtololo.com: dns3.rar
+
+[2022-03-29 17:17:29] - @killanas:matrix.mtololo.com: пасс тот же
+
+[2022-03-29 19:32:07] - @killanas:matrix.mtololo.com: воркает?
+
+[2022-03-29 21:43:09] - @saint:matrix.mtololo.com: lf
+
+[2022-03-29 21:43:11] - @saint:matrix.mtololo.com: да
+
+[2022-03-29 23:49:11] - @killanas:matrix.mtololo.com: Хотел уточнить, монеткам за сайт с билдами, морферу и кобе ты сказал после кобы можно вернуться можно вернуться к вопросу )
+
+[2022-03-30 01:28:41] - @killanas:matrix.mtololo.com: f&8ad7_0Pj^cYl
+
+[2022-03-30 01:28:53] - @killanas:matrix.mtololo.com: dns4_20220330102844.rar
+
+[2022-03-30 02:44:35] - @killanas:matrix.mtololo.com: Багу нашел. Тут поправлена
+
